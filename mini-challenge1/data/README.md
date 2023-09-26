@@ -1,3 +1,9 @@
 # npr Mini-Challenge 1 Data
 
-blabla
+# Sandbox Dataset
+
+BookDataSet.csv
+
+# Mini-Challenge 1 Dataset
+
+booksummaries.txt
