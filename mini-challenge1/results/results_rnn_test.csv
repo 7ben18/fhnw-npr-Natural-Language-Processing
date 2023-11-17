@@ -1,2 +1,2 @@
-,model,f1_score_micro,f1_score_macro,Accuracy,Precision,Recall
-0,RNN Classifier,0.1015820149875104,0.07179701962983696,0.0,0.05350877192982456,1.0
+,model,Threshold,f1_score_micro,f1_score_macro,Accuracy,Precision,Recall
+0,RNN Classifier,0.2,0.1015820149875104,0.07179701962983696,0.0,0.05350877192982456,1.0
