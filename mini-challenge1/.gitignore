@@ -191,3 +191,7 @@ pyrightconfig.json
 venv/
 
 # wandb
+wandb/
+
+# wandb 2
+NPR_MC1/
