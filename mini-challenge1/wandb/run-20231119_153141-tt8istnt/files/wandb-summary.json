@@ -1,0 +1,1 @@
+{"val_loss": 0.660159170627594, "val_fbeta": 0.1890067607164383, "epoch": 9, "trainer/global_step": 39, "_timestamp": 1700410101.694827, "_runtime": 5799.778531074524, "_step": 9, "_wandb": {"runtime": 283}}

@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-11-19T14:31:42.993650",
+    "startedAt": "2023-11-19T14:31:41.886536",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/7ben18/fhnw-npr-Natural-Language-Processing.git",
+        "commit": "d26567e84dab7a25e26b2ae11a43c56d97e07db2"
+    },
+    "email": "yannic.lais@students.fhnw.ch",
+    "root": "C:/Users/yanni/OneDrive/FHNW/Module/5. Semester/Natural language processing/fhnw-npr-Natural-Language-Processing",
+    "host": "DESKTOP-RM3G5JI",
+    "username": "yanni",
+    "executable": "c:\\Users\\yanni\\OneDrive\\FHNW\\Module\\5. Semester\\Natural language processing\\fhnw-npr-Natural-Language-Processing\\.venv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2803.0,
+        "min": 0.0,
+        "max": 2803.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2803.0,
+            "min": 0.0,
+            "max": 2803.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 952.4736289978027,
+            "used": 389.818790435791
+        }
+    },
+    "memory": {
+        "total": 15.557853698730469
+    }
+}

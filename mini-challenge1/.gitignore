@@ -192,3 +192,9 @@ pyrightconfig.json
 
 # Yannics Virtual environment
 venv/
+
+# wandb
+wandb/
+
+# wandb 2
+NPR_MC1/
