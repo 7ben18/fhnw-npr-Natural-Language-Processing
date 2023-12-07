@@ -1,0 +1,191 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "Whats up",
+                "How are you doing",
+                "Howdy",
+                "Hi there",
+                "Hola",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "It is nice to meet you"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Hello, thanks for visiting",
+                "Hi there, what can I do for you?",
+                "Hi there, how can I help?",
+                "I'm glad you're here!",
+                "Hi, how can I help you?",
+                "Hello, what can I do for you?",
+                "Hi, what can I do for you today?",
+                "Hello, how can I help you?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Nice chatting to you, bye",
+                "Till next time",
+                "Have a nice day",
+                "See you!",
+                "Later!",
+                "Goodbye!",
+                "I'm off!",
+                "That's all for now. See you soon!",
+                "I've got to get going. Bye!",
+                "It was nice talking to you. See you soon.",
+                "I've got to get going. Have a great day!",
+                "It was nice talking to you. Have a great day!",
+                "I've got to get going. Have a nice day!",
+                "It was nice talking to you. Have a nice day!",
+                "I've got to get going. See you later!"
+            ],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon.",
+                "Farewell!",
+                "Bye! Have a nice day.",
+                "Bye! Have a great day.",
+                "So long! Feel free to come back anytime.",
+                "Bye! See you later.",
+                "Bye! Come back again soon.",
+                "Bye! See you soon."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thank's a lot!",
+                "Thanks for helping me",
+                "Awesome, thanks",
+                "Thanks for the help",
+                "Thanks a bunch",
+                "Thanks for everything",
+                "Thanks for the chat",
+                "Thanks for the conversation",
+                "Thanks for the info"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure",
+                "You're most welcome!",
+                "Any time! Come back again soon.",
+                "My pleasure. Come back again soon.",
+                "Always happy to help. Come back again soon.",
+                "Glad I could assist you. Come back again soon.",
+                "Any time! I'm here to help."
+            ]
+        },
+        {
+            "tag": "items",
+            "patterns": [
+                "Which items do you have?",
+                "What kinds of items are there?",
+                "What do you sell?",
+                "What are your items?",
+                "What do you have?",
+                "What are you selling?",
+                "What do you offer?",
+                "What do you have for sale?",
+                "What do you have in stock?",
+                "What are your products?"
+            ],
+            "responses": [
+                "We sell coffee and tea",
+                "We have coffee and tea",
+                "We offer coffee and tea",
+                "We have a wide variety of coffee and tea",
+                "We have a wide selection of coffee and tea",
+                "We have a wide range of coffee and tea",
+                "We have a wide assortment of coffee and tea",
+                "We have a wide diversity of coffee and tea",
+                "We have a wide mix of coffee and tea",
+                "We have a wide collection of coffee and tea",
+                "We have a wide array of coffee and tea",
+                "We have a wide potpourri of coffee and tea",
+                "We have a wide medley of coffee and tea"
+            ]
+        },
+        {
+            "tag": "payments",
+            "patterns": [
+                "Do you take credit cards?",
+                "Do you accept Mastercard?",
+                "Can I pay with Paypal?",
+                "Are you cash only?",
+                "Do you accept VISA?",
+                "Do you accept AMEX?",
+                "Do you accept Discover Card?",
+                "Do you accept Apple Pay?",
+                "Do you accept Google Pay?",
+                "Do you accept Samsung Pay?",
+                "Do you accept Bitcoin?",
+                "Do you accept cryptocurrency?",
+                "Do you accept crypto?",
+                "Do you accept Dogecoin?",
+                "Do you accept Ethereum?"
+            ],
+            "responses": [
+                "We accept VISA, Mastercard and Paypal",
+                "We accept most major credit cards, and Paypal",
+                "We accept most major credit cards, and Paypal, Apple Pay, Google Pay, and Samsung Pay",
+                "We accept Bitcoin, Dogecoin, and Ethereum"
+            ]
+        },
+        {
+            "tag": "delivery",
+            "patterns": [
+                "How long does delivery take?",
+                "How long does shipping take?",
+                "When do I get my delivery?",
+                "When do I get my order?",
+                "When do I get my package?",
+                "When do I get my shipment?",
+                "When do I get my item?"
+            ],
+            "responses": [
+                "Delivery takes 2-4 days",
+                "Shipping takes 2-4 days",
+                "You should get your order in 2-4 days",
+                "You should get your package in 2-4 days",
+                "You should get your shipment in 2-4 days",
+                "You should get your item in 2-4 days",
+                "You should get your delivery in 2-4 days"
+            ]
+        },
+        {
+            "tag": "funny",
+            "patterns": [
+                "Tell me a joke!",
+                "Tell me something funny!",
+                "Do you know a joke?",
+                "Do you know any jokes?",
+                "Do you know any funny jokes?"
+            ],
+            "responses": [
+                "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+                "What did the buffalo say when his son left for college? Bison.",
+                "What do you call a sad coffee? Depresso.",
+                "What do you call a cow who's just given birth? De-calf-inated."
+            ]
+        }
+    ]
+}
