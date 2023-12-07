@@ -14,24 +14,48 @@ version: "3.1"
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
-  - text: "Hey!"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
+  - text: "Hello! Looking for a property today?"
+  - text: "Hi there! How can I assist you in your real estate search?"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Goodbye! If you have more questions, feel free to ask."
+  - text: "Bye! Hope I was able to help with your real estate needs."
+
+  utter_ask_property_type:
+  - text: "What type of property are you interested in? (e.g., apartment, house, penthouse)"
+
+  utter_ask_price_range:
+  - text: "Do you have a specific price range in mind?"
+
+  utter_ask_location:
+  - text: "Which location are you considering for your property?"
+
+  utter_provide_property_details:
+  - text: "Here are the details of the property you asked about."
+  - text: "I have found some options that might interest you. Here they are:"
+
+  utter_provide_price_info:
+  - text: "This property is priced at..."
+  - text: "The cost of this property is..."
+
+  utter_provide_location_info:
+  - text: "This property is located in..."
+  - text: "You can find this property at..."
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+#actions:
+#  - utter_greet
+#  - utter_goodbye
+#  - utter_ask_property_type
+#  - utter_ask_price_range
+#  - utter_ask_location
+#  - utter_provide_property_details
+#  - utter_provide_price_info
+#  - utter_provide_location_info
+#  - utter_iamabot
+
 
 session_config:
   session_expiration_time: 60
