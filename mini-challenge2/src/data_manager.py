@@ -5,6 +5,7 @@ class DataManager:
     def __init__(self, data_path):
         self.data_path = data_path
         self.data = None
+        self.all_columns = None
 
     def load_data(self):
         try:
@@ -14,14 +15,22 @@ class DataManager:
             print(f"Error loading data: {str(e)}")
             return False
 
+    def get_na_values(self):
+        return self.data.isna().sum().sort_values(ascending=True)
+
+    def get_all_columns(self):
+        return self.data.columns
+
     def get_char_data(self):
         return self.data.select_dtypes(include=["object"])
 
     def get_num_data(self):
         return self.data.select_dtypes(include=["number"])
 
-    def get_npr_data(self):
-        return self.data[["description", "type_unified"]]
+    def get_npr_data(
+        self, cols=["price", "type", "location", "detailed_description", "Zip", "url"]
+    ):
+        return self.data[cols]
 
     def get_clean_npr_data(self):
         return self.get_npr_data().dropna()

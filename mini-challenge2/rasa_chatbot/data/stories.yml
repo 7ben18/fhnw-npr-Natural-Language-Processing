@@ -1,0 +1,67 @@
+version: "3.1"
+
+stories:
+
+# happy path
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+# sad path 1
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+# sad path 2
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+# Story 1: Real Estate Inquiry
+- story: real estate inquiry story
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: real_estate_request
+  - action: action_show_properties
+  - intent: affirm
+  - action: action_provide_property_details
+  - intent: goodbye
+  - action: utter_goodbye
+
+# Story 2: Price Inquiry
+- story: price inquiry story
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: price_request
+  - action: action_provide_price_info
+  - action: utter_youre_welcome
+  - intent: goodbye
+  - action: utter_goodbye
+
+# Story 3: Location Inquiry
+- story: location inquiry story
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: location_request
+  - action: action_provide_location_info
+  - action: action_provide_more_details
+  - intent: goodbye
+  - action: utter_goodbye
