@@ -1,6 +1,10 @@
 version: "3.1"
 
 nlu:
+- regex: postal_code
+  examples: |
+    - \d{4}
+
 - intent: greet
   examples: |
     - hey
@@ -48,6 +52,13 @@ nlu:
     - don't like that
     - no way
     - not really
+
+- intent: thank
+  examples: |
+    - thank you
+    - thanks yes
+    - yes thanks
+    - ty
 
 - intent: mood_great
   examples: |

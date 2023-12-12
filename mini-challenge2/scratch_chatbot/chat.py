@@ -3,8 +3,10 @@ import json
 
 import torch
 
-from model import NeuralNet
-from nltk_utils import bag_of_words, tokenize
+from neuralmodel import NeuralNet
+from preprocessing import bag_of_words, tokenize
+# from model import NeuralNet
+# from nltk_utils import bag_of_words, tokenize
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 

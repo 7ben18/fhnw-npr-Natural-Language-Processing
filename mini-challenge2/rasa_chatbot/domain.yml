@@ -5,21 +5,35 @@ intents:
     - goodbye
     - affirm
     - deny
+    - thank
     - mood_great
     - mood_unhappy
     - bot_challenge
     - real_estate_request
     - price_request
     - location_request
+    - request_more_details
 
 responses:
   utter_greet:
   - text: "Hello! Looking for a property today?"
   - text: "Hi there! How can I assist you in your real estate search?"
+  - text: "Welcome! Exploring the real estate market? Feel free to ask about listings, locations, or anything else you need."
 
   utter_goodbye:
+  - text: "Goodbye! If you ever need assistance in the future, don't hesitate to return."
+  - text: "Take care and goodbye! Have a wonderful day!"
+  - text: "It's been a pleasure assisting you. Goodbye and have a fantastic day!"
   - text: "Goodbye! If you have more questions, feel free to ask."
   - text: "Bye! Hope I was able to help with your real estate needs."
+
+  utter_youre_welcome:
+  - text: "You're welcome, I hope that answer was satisfactory."
+  - text: "You're welcome, if you have any more questions feel free to ask!"
+  - text: "I hope that was what you were looking for."
+  - text: "No problem, happy to help!"
+  - text: "No worries, glad I could assist!"
+  - text: "Happy to be of service!"
 
   utter_ask_property_type:
   - text: "What type of property are you interested in? (e.g., apartment, house, penthouse)"
@@ -45,16 +59,18 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
-#actions:
-#  - utter_greet
-#  - utter_goodbye
-#  - utter_ask_property_type
-#  - utter_ask_price_range
-#  - utter_ask_location
-#  - utter_provide_property_details
-#  - utter_provide_price_info
-#  - utter_provide_location_info
-#  - utter_iamabot
+actions:
+ - utter_greet
+ - utter_goodbye
+ - utter_ask_property_type
+ - utter_ask_price_range
+ - utter_ask_location
+ - utter_provide_property_details
+ - utter_provide_price_info
+ - utter_provide_location_info
+ - action_provide_more_details
+ - utter_iamabot
+ - utter_youre_welcome
 
 
 session_config:
