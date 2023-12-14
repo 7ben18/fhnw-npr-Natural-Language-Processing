@@ -1,3 +1,7 @@
+### Ignore Data ### 
+data/*
+!data/intents.json
+
 *.bundle.*
 lib/
 node_modules/
