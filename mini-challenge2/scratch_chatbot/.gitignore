@@ -3,7 +3,7 @@ data/*
 !data/intents.json
 !data/intents_news.json
 !data/intents-scratch copy.json
-!data/intents-scratch
+!data/intents-scratch.json
 
 *.bundle.*
 lib/

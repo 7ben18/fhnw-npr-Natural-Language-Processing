@@ -1,6 +1,34 @@
 {
     "intents": [
         {
+            "tag": "introduction",
+            "patterns": [
+                "Hello, my name is",
+                "Hi, I'm",
+                "Hey, I go by",
+                "I am",
+                "Greetings, call me",
+                "You can call me",
+                "They call me",
+                "My name's",
+                "I'd like to introduce myself, I'm",
+                "Allow me to introduce myself, I am",
+                "I go by the name",
+                "People know me as"
+            ],
+            "responses": [
+                "Hello {persons}!",
+                "Hi {persons}, nice to meet you!",
+                "Hey {persons}, it's a pleasure to meet you!",
+                "Hello there, {persons}!",
+                "Hi there, {persons}, how can I assist you today?",
+                "Nice to meet you, {persons}!",
+                "Hello, {persons}, how can I help you?",
+                "Hi {persons}, what can I do for you?",
+                "Hey {persons}, how can I assist you today?"
+            ]
+        },
+        {
             "tag": "greeting",
             "patterns": [
                 "Hi",
@@ -20,15 +48,15 @@
                 "It is nice to meet you"
             ],
             "responses": [
-                "Hey :-)",
-                "Hello, thanks for visiting",
-                "Hi there, what can I do for you?",
-                "Hi there, how can I help?",
-                "I'm glad you're here!",
-                "Hi, how can I help you?",
-                "Hello, what can I do for you?",
-                "Hi, what can I do for you today?",
-                "Hello, how can I help you?"
+                "Hey :-) {persons}",
+                "Hello, thanks for visiting {persons}",
+                "Hi there, what can I do for you {persons}? ",
+                "Hi there, how can I help {persons}?",
+                "I'm glad you're here {persons}!",
+                "Hi, how can I help you {persons}?",
+                "Hello, what can I do for you {persons}?",
+                "Hi, what can I do for you today {persons}?",
+                "Hello, how can I help you {persons}?"
             ]
         },
         {
