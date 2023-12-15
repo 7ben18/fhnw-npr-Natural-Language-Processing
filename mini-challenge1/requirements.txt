@@ -90,3 +90,4 @@ wcwidth==0.2.6
 wheel==0.41.2
 yarl==1.9.4
 zipp==3.17.0
+wandb== 0.12.10
