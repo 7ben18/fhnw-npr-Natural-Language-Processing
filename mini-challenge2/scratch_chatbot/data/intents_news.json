@@ -1,78 +1,21 @@
 {
     "intents": [
         {
-            "tag": "wetter",
+            "tag": "eishockey",
             "patterns": [
-                "Get me the latest wetter",
-                "Tell me about wetter",
-                "What's happening in wetter",
-                "Give me updates on wetter",
-                "I'm interested in wetter",
-                "Can you provide wetter ",
-                "Tell me more about wetter",
-                "Share wetter",
-                "wetter"
+                "Get me the latest eishockey",
+                "Tell me about eishockey",
+                "What's happening in eishockey",
+                "Give me updates on eishockey",
+                "I'm interested in eishockey",
+                "Can you provide eishockey ",
+                "Tell me more about eishockey",
+                "Share eishockey",
+                "eishockey"
             ],
             "responses": [
-                "wetter news coming right up: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-19",
-                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-19",
-                "wetter news coming right up: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-19",
-                "Check out this wetter news: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-19",
-                "Check out this wetter news: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-19",
-                "wetter news coming right up: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-19",
-                "Enjoy this wetter news article: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-19",
-                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-19",
-                "wetter news coming right up: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-19",
-                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-19",
-                "wetter news coming right up: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-20",
-                "Here is a wetter news article: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-20",
-                "Here is a wetter news article: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-20",
-                "Check out this wetter news: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-20",
-                "Enjoy this wetter news article: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-20",
-                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-20",
-                "Here's some wetter news for you: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-20",
-                "wetter news coming right up: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-20",
-                "Here is a wetter news article: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-20",
-                "Enjoy this wetter news article: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-20",
-                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetterbericht",
-                "Here's the latest wetter news: https://www.srf.ch/meteo/wetterbericht"
-            ]
-        },
-        {
-            "tag": "www.srgssr.ch",
-            "patterns": [
-                "Get me the latest www.srgssr.ch",
-                "Tell me about www.srgssr.ch",
-                "What's happening in www.srgssr.ch",
-                "Give me updates on www.srgssr.ch",
-                "I'm interested in www.srgssr.ch",
-                "Can you provide www.srgssr.ch ",
-                "Tell me more about www.srgssr.ch",
-                "Share www.srgssr.ch",
-                "www.srgssr.ch"
-            ],
-            "responses": [
-                "Here is a www.srgssr.ch news article: https://www.srgssr.ch/"
-            ]
-        },
-        {
-            "tag": "gesellschaft",
-            "patterns": [
-                "Get me the latest gesellschaft",
-                "Tell me about gesellschaft",
-                "What's happening in gesellschaft",
-                "Give me updates on gesellschaft",
-                "I'm interested in gesellschaft",
-                "Can you provide gesellschaft ",
-                "Tell me more about gesellschaft",
-                "Share gesellschaft",
-                "gesellschaft"
-            ],
-            "responses": [
-                "Sure, here's a gesellschaft news link: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
-                "Here's some gesellschaft news for you: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
-                "Here's the latest gesellschaft news: https://www.srf.ch/kultur/gesellschaft-religion/star-autorin-ueber-russland-sofi-oksanen-sexuelle-gewalt-ist-teil-der-russischen-strategie",
-                "Sure, here's a gesellschaft news link: https://www.srf.ch/sendungen/school/gesellschaft-ethik-religion/sexuelle-uebergriffe-stop-it-now"
+                "Here's some eishockey news for you: https://www.srf.ch/sport/eishockey/national-league/ambri-zu-gast-in-davos-verfolgerduell-und-hauptprobe-fuer-den-spengler-cup",
+                "Sure, here's a eishockey news link: https://www.srf.ch/sport/eishockey/national-league/radio-legende-wurde-91-jaehrig-zsc-kultreporter-walter-scheibli-verstorben"
             ]
         },
         {
@@ -89,357 +32,96 @@
                 "www.radioswissclassic.ch"
             ],
             "responses": [
-                "www.radioswissclassic.ch news coming right up: https://www.radioswissclassic.ch/de",
-                "Here is a www.radioswissclassic.ch news article: https://www.radioswissclassic.ch/de"
+                "Here's the latest www.radioswissclassic.ch news: https://www.radioswissclassic.ch/de",
+                "Here's the latest www.radioswissclassic.ch news: https://www.radioswissclassic.ch/de"
             ]
         },
         {
-            "tag": "www.radioswissjazz.ch",
+            "tag": "tv",
             "patterns": [
-                "Get me the latest www.radioswissjazz.ch",
-                "Tell me about www.radioswissjazz.ch",
-                "What's happening in www.radioswissjazz.ch",
-                "Give me updates on www.radioswissjazz.ch",
-                "I'm interested in www.radioswissjazz.ch",
-                "Can you provide www.radioswissjazz.ch ",
-                "Tell me more about www.radioswissjazz.ch",
-                "Share www.radioswissjazz.ch",
-                "www.radioswissjazz.ch"
+                "Get me the latest tv",
+                "Tell me about tv",
+                "What's happening in tv",
+                "Give me updates on tv",
+                "I'm interested in tv",
+                "Can you provide tv ",
+                "Tell me more about tv",
+                "Share tv",
+                "tv"
             ],
             "responses": [
-                "Enjoy this www.radioswissjazz.ch news article: https://www.radioswissjazz.ch/de",
-                "Here you go, the www.radioswissjazz.ch news you requested: https://www.radioswissjazz.ch/de"
+                "Check out this tv news: https://www.srf.ch/play/tv",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
+                "Here's some tv news for you: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
+                "Enjoy this tv news article: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/themen/serien",
+                "Enjoy this tv news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725",
+                "Here's some tv news for you: https://www.srf.ch/play/tv/_/video/_?id=f1dcbba1-f843-4863-b32f-721f06e05725&urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725&aspectRatio=16_9",
+                "Sure, here's a tv news link: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c",
+                "Here's the latest tv news: https://www.srf.ch/play/tv/_/video/_?id=907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&aspectRatio=16_9",
+                "Here's some tv news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6",
+                "Enjoy this tv news article: https://www.srf.ch/play/tv/_/video/_?id=7ff5469e-110f-43c4-9080-8a0991d743c6&urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6&aspectRatio=16_9",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3",
+                "tv news coming right up: https://www.srf.ch/play/tv/_/video/_?id=fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&aspectRatio=16_9",
+                "Sure, here's a tv news link: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764",
+                "Sure, here's a tv news link: https://www.srf.ch/play/tv/_/video/_?id=0b577a10-877f-438e-9369-d7d05ffdb764&urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764&aspectRatio=16_9",
+                "Here's the latest tv news: https://www.srf.ch/play/tv",
+                "tv news coming right up: https://www.srf.ch/play/tv/themen/gebaerdensprache",
+                "tv news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:4702b41c-1ad5-49e2-8e8a-adb59e028538",
+                "Sure, here's a tv news link: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
+                "Here's some tv news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0",
+                "Here's the latest tv news: https://www.srf.ch/play/tv/_/video/_?id=287e5d50-83b5-401a-8ba2-7e69eaddd8d0&urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0&aspectRatio=16_9",
+                "tv news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa",
+                "Here is a tv news article: https://www.srf.ch/play/tv/_/video/_?id=f514bab0-b8ac-4edb-b226-69cf26215afa&urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa&aspectRatio=16_9",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/sendung/archivperlen?id=eb4f3b13-0362-4ea8-b7b3-325382c86ef2",
+                "Enjoy this tv news article: https://www.srf.ch/play/tv/sendungen?onlyActiveShows=false",
+                "Check out this tv news: https://www.srf.ch/play/tv",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/programm",
+                "Sure, here's a tv news link: https://www.srf.ch/tv/tv-korrekturen-1",
+                "Here's some tv news for you: https://www.srf.ch/play/tv",
+                "Here you go, the tv news you requested: https://www.srf.ch/play/tv/programm"
             ]
         },
         {
-            "tag": "www.srf.ch",
+            "tag": "schweiz",
             "patterns": [
-                "Get me the latest www.srf.ch",
-                "Tell me about www.srf.ch",
-                "What's happening in www.srf.ch",
-                "Give me updates on www.srf.ch",
-                "I'm interested in www.srf.ch",
-                "Can you provide www.srf.ch ",
-                "Tell me more about www.srf.ch",
-                "Share www.srf.ch",
-                "www.srf.ch"
+                "Get me the latest schweiz",
+                "Tell me about schweiz",
+                "What's happening in schweiz",
+                "Give me updates on schweiz",
+                "I'm interested in schweiz",
+                "Can you provide schweiz ",
+                "Tell me more about schweiz",
+                "Share schweiz",
+                "schweiz"
             ],
             "responses": [
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch#skiplink__contentlink",
-                "Check out this www.srf.ch news: https://www.srf.ch/",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/sport",
-                "www.srf.ch news coming right up: https://www.srf.ch/meteo",
-                "Check out this www.srf.ch news: https://www.srf.ch/kultur",
-                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/dok",
-                "www.srf.ch news coming right up: https://www.srf.ch/wissen",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv",
-                "Check out this www.srf.ch news: https://www.srf.ch/audio",
-                "Check out this www.srf.ch news: https://www.srf.ch#skiplink__footer",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/news",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/sport",
-                "www.srf.ch news coming right up: https://www.srf.ch/meteo",
-                "Check out this www.srf.ch news: https://www.srf.ch/kultur",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sendungen/dok",
-                "www.srf.ch news coming right up: https://www.srf.ch/wissen",
-                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/dok/leben-mit-neurodivergenz-adhs-bei-erwachsenen-anpassung-bis-zum-burnout",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/international/gravierende-fehler-bundestagswahl-2021-muss-in-berlin-teilweise-wiederholt-werden",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/schweiz/umstrittener-1-mai-einsatz-europaeische-gerichtshof-ruegt-zuercher-polizei",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/international/starke-seismische-aktivitaeten-heftigkeit-des-vulkanausbruchs-auf-island-laesst-etwas-nach",
-                "Check out this www.srf.ch news: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen",
-                "Here is a www.srf.ch news article: https://www.srf.ch/news/schweiz/wintersession-2023-auch-nationalrat-will-terrororganisation-hamas-verbieten",
-                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/kassensturz-espresso/espresso/nach-17-jahren-letzte-sendung-fuer-kathrin-winzenried-es-hat-was-unwirkliches",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/schweiz/weder-maedchen-noch-junge-diskussion-ueber-intergeschlechtliche-kinder-das-sagen-betroffene",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
-                "www.srf.ch news coming right up: https://www.srf.ch/wissen/gesundheit/zahngesundheit-bleaching-fuer-weisse-zaehne-sechs-fragen-und-antworten",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sport",
-                "www.srf.ch news coming right up: https://www.srf.ch/sport/eishockey/national-league/ambri-zu-gast-in-davos-verfolgerduell-und-hauptprobe-fuer-den-spengler-cup",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sport/mehr-sport/news-aus-dem-us-sport-pistons-kassieren-gegen-capelas-hawks-24-niederlage-in-serie",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sport/fussball/internationale-ligen/aus-gegen-fluminense-endstation-halbfinal-fuer-kollers-al-ahly-an-der-klub-wm",
-                "www.srf.ch news coming right up: https://www.srf.ch/sport/fussball/super-league/mit-der-hacke-ins-glueck-ittens-kabinettstueckchen-ist-das-tor-der-herbstrunde",
-                "Check out this www.srf.ch news: https://www.srf.ch/kultur/film-serien/streamingstart-davos-1917-das-muessen-sie-zur-spionageserie-davos-1917-wissen",
-                "Here is a www.srf.ch news article: https://www.srf.ch/radio-srf-1/sotomo-studie-so-hilfsbereit-ist-die-schweiz-sechs-fakten-zur-solidaritaet",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-3",
-                "Check out this www.srf.ch news: https://www.srf.ch/meteo",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/warnungen",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-19",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-19",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-19",
-                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-19",
-                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-19",
-                "Check out this www.srf.ch news: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-19",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-19",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-19",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-19",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-19",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-20",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-20",
-                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-20",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-20",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-20",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-20",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-20",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-20",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-20",
-                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-20",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetterbericht",
-                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/radar",
-                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetterbericht",
-                "Check out this www.srf.ch news: https://www.srf.ch/news/international/starke-seismische-aktivitaeten-heftigkeit-des-vulkanausbruchs-auf-island-laesst-etwas-nach",
-                "Here is a www.srf.ch news article: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ",
-                "Check out this www.srf.ch news: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/news/wirtschaft/huthi-rebellen-im-roten-meer-huthi-angriffe-auf-schiffe-wirbeln-lieferketten-durcheinander",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/news/schweiz",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/international",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/news/dialog",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/themen/serien",
-                "Check out this www.srf.ch news: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/news/international/fluchtziel-eu-migrationsroute-belarus-baltikum-tod-am-grenzzaun",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-filme-des-jahres-und-ein-schuss-in-den-ofen",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/kultur/literatur/jahresrueckblick-2023-die-spannendsten-buecher-des-jahres-und-eine-kleine-sensation",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-serien-des-jahres-und-eine-enttaeuschung",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-alben-des-jahres",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-schweizer-alben-des-jahres",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/radio-srf-1/schweizer-popkultur-hautnah-swissmade-bliss-brachte-weihnachtliche-stimmung-und-comedy-pur",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/kultur/film-serien/neu-im-stream-leave-the-world-behind-stars-am-rande-des-weltzusammenbruchs",
-                "www.srf.ch news coming right up: https://www.srf.ch/wissen/mensch/studie-zum-nein-sagen-einladungen-abzulehnen-ist-weniger-schlimm-als-befuerchtet",
-                "Here is a www.srf.ch news article: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sendungen/kassensturz-espresso/espresso/schlauer-i-d-wuche-mit-dem-zug-ins-ausland-wo-und-wie-buche-ich-die-tickets",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/entspannt-ins-neue-jahr-sechs-ueberlebenstipps-fuer-die-festtage",
-                "www.srf.ch news coming right up: https://www.srf.ch/radio-srf-1/kochen/kochen-an-weihnachten-so-kochen-sie-an-den-festtagen-ganz-relaxt",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/kultur/gesellschaft-religion/star-autorin-ueber-russland-sofi-oksanen-sexuelle-gewalt-ist-teil-der-russischen-strategie",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/kultur/film-serien/60-geburtstag-brad-pitt-vom-frauenschwarm-zum-publikumsliebling",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv/_/video/_?id=f1dcbba1-f843-4863-b32f-721f06e05725&urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725&aspectRatio=16_9",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c",
-                "Check out this www.srf.ch news: https://www.srf.ch/play/tv/_/video/_?id=907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&aspectRatio=16_9",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6",
-                "Check out this www.srf.ch news: https://www.srf.ch/play/tv/_/video/_?id=7ff5469e-110f-43c4-9080-8a0991d743c6&urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6&aspectRatio=16_9",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/_/video/_?id=fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&aspectRatio=16_9",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/_/video/_?id=0b577a10-877f-438e-9369-d7d05ffdb764&urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764&aspectRatio=16_9",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/themen/gebaerdensprache",
-                "Here is a www.srf.ch news article: https://www.srf.ch/news/dialog",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/was-finden-sie-cop28-ausser-spesen-nichts-gewesen",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/dialog-die-zusammensetzung-des-bundesrats-muss-sich-aendern",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/dialog-respekt-vor-anderen-meinungen-nimmt-ab-findet-die-community",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/dialog/dialog-die-nicht-mehr-ganz-so-magische-formel-fuer-den-bundesrat",
-                "www.srf.ch news coming right up: https://www.srf.ch/news/dialog/srg-umfrage-fehlende-toleranz-gegenueber-anderen-meinungen-ist-ein-problem",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/dialog-sogar-lehrpersonen-fragen-sich-fuer-was-man-das-beibringen-muss",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/news/dialog/dialog-wochendebatte-darf-man-heute-noch-sagen-was-man-denkt",
-                "Here is a www.srf.ch news article: https://www.srf.ch/news/dialog/dialog-wochendebatte-schweizerinnen-und-schweizer-sind-zufrieden-mit-dem-schulsystem",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/dialog/dialog-die-rasante-entwicklung-von-ki-verunsichert-die-community",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/dialog/dialog-wochendebatte-kuenstliche-intelligenz-chance-oder-risiko",
-                "Check out this www.srf.ch news: https://www.srf.ch/news/dialog/dialog-wer-ist-fuer-burnouts-verantwortlich-die-community-ist-gespalten",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/dialog/dialog-wochendebatte-traditionen-im-wandel-bedrohung-der-identitaet-oder-notwendig",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/dialog/dialog-wochendebatte-stress-und-burnout-nimmt-unser-job-zu-viel-raum-ein",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/dialog/dialog-wochendebatte-wie-beurteilen-sie-das-schweizerische-asylsystem",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/dialog/dialog-wochendebatte-ist-das-gesundheitswesen-kaputt",
-                "Check out this www.srf.ch news: https://www.srf.ch/news/neues-angebot-dialog-erleben-sie-news-und-debatte-neu",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/school/braeuche-und-tradition-weihnachtsgeschenke-diese-geschichten-stecken-dahinter",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/school/gesellschaft-ethik-religion/sexuelle-uebergriffe-stop-it-now",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
-                "Here is a www.srf.ch news article: https://www.srf.ch/play/radio/popupaudioplayer?id=9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/sendungen/school/geschichte-geografie/in-die-neue-welt-amerigo-vespucci-der-mann-der-amerika-seinen-namen-gab",
-                "www.srf.ch news coming right up: https://www.srf.ch/kids",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/audio/themen/kinder-familie",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/kids/eltern-1",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/audio/podcast-empfehlungen-der-woche-der-rizz-von-tom-holland-und-vier-weitere-podcast-tipps",
-                "www.srf.ch news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:4702b41c-1ad5-49e2-8e8a-adb59e028538",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/radio/popupaudioplayer?id=4702b41c-1ad5-49e2-8e8a-adb59e028538",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/play/radio/popupaudioplayer?id=444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/radio/popupaudioplayer?id=c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
-                "Here is a www.srf.ch news article: https://www.srf.ch/audio",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/audio/woechentlicher-newsletter-abonniere-den-srf-podcast-newsletter",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0",
-                "Check out this www.srf.ch news: https://www.srf.ch/play/tv/_/video/_?id=287e5d50-83b5-401a-8ba2-7e69eaddd8d0&urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0&aspectRatio=16_9",
-                "Check out this www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa",
-                "Here is a www.srf.ch news article: https://www.srf.ch/play/tv/_/video/_?id=f514bab0-b8ac-4edb-b226-69cf26215afa&urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa&aspectRatio=16_9",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/sendung/archivperlen?id=eb4f3b13-0362-4ea8-b7b3-325382c86ef2",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/sendungen?onlyActiveShows=false",
-                "www.srf.ch news coming right up: https://www.srf.ch/taeglich-das-info-und-aufsteller-abo-der-srf-newsletter",
-                "Check out this www.srf.ch news: https://www.srf.ch/kultur/highlights-mit-tiefgang-abonnieren-sie-den-newsletter-von-srf-kultur",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/audio/woechentlicher-newsletter-abonniere-den-podcast-newsletter",
-                "Here is a www.srf.ch news article: https://www.srf.ch/newsletter-uebersicht-srf-newsletter-abonnieren-1",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/emissiuns/decodar-nossa-cultura",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/",
-                "www.srf.ch news coming right up: https://www.srf.ch",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/",
-                "www.srf.ch news coming right up: https://www.srf.ch/news",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sport",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo",
-                "www.srf.ch news coming right up: https://www.srf.ch/kultur",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/dok",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/wissen",
-                "Check out this www.srf.ch news: https://www.srf.ch/play/tv",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/audio",
-                "Here is a www.srf.ch news article: https://www.srf.ch/play/tv/programm",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/programm/radio",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/archiv",
-                "Check out this www.srf.ch news: https://www.srf.ch/news/verkehrsinformationen",
-                "Check out this www.srf.ch news: https://www.srf.ch/kids",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/sendungen/school",
-                "Check out this www.srf.ch news: https://www.srf.ch/newsletter-uebersicht-srf-newsletter-abonnieren",
-                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/hallosrf",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/unternehmen",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/radio-srf-1",
-                "www.srf.ch news coming right up: https://www.srf.ch/radio-srf-2-kultur",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/radio-srf-3",
-                "www.srf.ch news coming right up: https://www.srf.ch/radio-srf-4-news",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-musikwelle",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/radio-srf-virus",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/hilfe/website-und-apps/srf-apps",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/von-a-bis-z-themenliste",
-                "Here is a www.srf.ch news article: https://www.srf.ch/tv/tv-korrekturen-1",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/hilfe-fragen-antworten-hilfestellungen",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/hilfe-kontakt",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/ueber-srf-impressum",
-                "Check out this www.srf.ch news: https://www.srf.ch/rechtliches-datenschutzerklaerung",
-                "www.srf.ch news coming right up: https://www.srf.ch/rechtliches",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/rechtliches-nutzungsbedingungen",
-                "Check out this www.srf.ch news: https://www.srf.ch/",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/",
-                "Check out this www.srf.ch news: https://www.srf.ch/news",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sport",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/meteo",
-                "Here is a www.srf.ch news article: https://www.srf.ch/kultur",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sendungen/dok",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/wissen",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv",
-                "Here is a www.srf.ch news article: https://www.srf.ch/audio",
-                "Check out this www.srf.ch news: https://www.srf.ch/play/tv/programm",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/programm/radio",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/archiv",
-                "Check out this www.srf.ch news: https://www.srf.ch/news/verkehrsinformationen",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/kids",
-                "Sure, here's a www.srf.ch news link: https://www.srf.ch/sendungen/school",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/newsletter-uebersicht-srf-newsletter-abonnieren",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/hallosrf",
-                "Here's some www.srf.ch news for you: https://www.srf.ch/unternehmen",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch/radio-srf-1",
-                "www.srf.ch news coming right up: https://www.srf.ch/radio-srf-2-kultur",
-                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-3",
-                "Here's the latest www.srf.ch news: https://www.srf.ch/radio-srf-4-news",
-                "Here is a www.srf.ch news article: https://www.srf.ch/radio-srf-musikwelle",
-                "Check out this www.srf.ch news: https://www.srf.ch/radio-srf-virus",
-                "Enjoy this www.srf.ch news article: https://www.srf.ch"
+                "Here is a schweiz news article: https://www.srf.ch/news/schweiz/2-5-milliarden-fuer-bahnausbau-der-staenderat-stellt-die-weichen-fuer-die-bahn-der-zukunft",
+                "Enjoy this schweiz news article: https://www.srf.ch/news/schweiz/felsplatte-loest-sich-massiver-erdrutsch-fuehrt-zu-grossen-verwuestungen",
+                "Here is a schweiz news article: https://www.srf.ch/news/schweiz/umstrittener-1-mai-einsatz-europaeischer-gerichtshof-ruegt-zuercher-polizei",
+                "Enjoy this schweiz news article: https://www.srf.ch/news/schweiz/wintersession-2023-auch-nationalrat-will-terrororganisation-hamas-verbieten",
+                "Here's some schweiz news for you: https://www.srf.ch/news/schweiz",
+                "Sure, here's a schweiz news link: https://www.srf.ch/radio-srf-1/schweizer-popkultur-hautnah-swissmade-bliss-brachte-weihnachtliche-stimmung-und-comedy-pur",
+                "Check out this schweiz news: https://www.srf.ch/news/schweiz/weder-maedchen-noch-junge-diskussion-ueber-intergeschlechtliche-kinder-das-sagen-betroffene"
             ]
         },
         {
-            "tag": "kochen",
+            "tag": "www.rsi.ch",
             "patterns": [
-                "Get me the latest kochen",
-                "Tell me about kochen",
-                "What's happening in kochen",
-                "Give me updates on kochen",
-                "I'm interested in kochen",
-                "Can you provide kochen ",
-                "Tell me more about kochen",
-                "Share kochen",
-                "kochen"
+                "Get me the latest www.rsi.ch",
+                "Tell me about www.rsi.ch",
+                "What's happening in www.rsi.ch",
+                "Give me updates on www.rsi.ch",
+                "I'm interested in www.rsi.ch",
+                "Can you provide www.rsi.ch ",
+                "Tell me more about www.rsi.ch",
+                "Share www.rsi.ch",
+                "www.rsi.ch"
             ],
             "responses": [
-                "Here is a kochen news article: https://www.srf.ch/radio-srf-1/kochen/kochen-an-weihnachten-so-kochen-sie-an-den-festtagen-ganz-relaxt"
-            ]
-        },
-        {
-            "tag": "radio",
-            "patterns": [
-                "Get me the latest radio",
-                "Tell me about radio",
-                "What's happening in radio",
-                "Give me updates on radio",
-                "I'm interested in radio",
-                "Can you provide radio ",
-                "Tell me more about radio",
-                "Share radio",
-                "radio"
-            ],
-            "responses": [
-                "Here's the latest radio news: https://www.srf.ch/radio-srf-1/sotomo-studie-so-hilfsbereit-ist-die-schweiz-sechs-fakten-zur-solidaritaet",
-                "Here's some radio news for you: https://www.srf.ch/radio-srf-3",
-                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-alben-des-jahres",
-                "Enjoy this radio news article: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-schweizer-alben-des-jahres",
-                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-1/schweizer-popkultur-hautnah-swissmade-bliss-brachte-weihnachtliche-stimmung-und-comedy-pur",
-                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-1/kochen/kochen-an-weihnachten-so-kochen-sie-an-den-festtagen-ganz-relaxt",
-                "Here's some radio news for you: https://www.srf.ch/play/radio/popupaudioplayer?id=9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
-                "Here's the latest radio news: https://www.srf.ch/play/radio/popupaudioplayer?id=4702b41c-1ad5-49e2-8e8a-adb59e028538",
-                "radio news coming right up: https://www.srf.ch/play/radio/popupaudioplayer?id=444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
-                "Sure, here's a radio news link: https://www.srf.ch/play/radio/popupaudioplayer?id=c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
-                "Here's the latest radio news: https://www.srf.ch/programm/radio",
-                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-1",
-                "Here's some radio news for you: https://www.srf.ch/radio-srf-2-kultur",
-                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-3",
-                "radio news coming right up: https://www.srf.ch/radio-srf-4-news",
-                "Enjoy this radio news article: https://www.srf.ch/radio-srf-musikwelle",
-                "Check out this radio news: https://www.srf.ch/radio-srf-virus",
-                "radio news coming right up: https://www.srf.ch/programm/radio",
-                "Here's the latest radio news: https://www.srf.ch/radio-srf-1",
-                "radio news coming right up: https://www.srf.ch/radio-srf-2-kultur",
-                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-3",
-                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-4-news",
-                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-musikwelle",
-                "Check out this radio news: https://www.srf.ch/radio-srf-virus"
-            ]
-        },
-        {
-            "tag": "dialog",
-            "patterns": [
-                "Get me the latest dialog",
-                "Tell me about dialog",
-                "What's happening in dialog",
-                "Give me updates on dialog",
-                "I'm interested in dialog",
-                "Can you provide dialog ",
-                "Tell me more about dialog",
-                "Share dialog",
-                "dialog"
-            ],
-            "responses": [
-                "Enjoy this dialog news article: https://www.srf.ch/news/dialog",
-                "Here is a dialog news article: https://www.srf.ch/news/dialog",
-                "Enjoy this dialog news article: https://www.srf.ch/news/dialog/was-finden-sie-cop28-ausser-spesen-nichts-gewesen",
-                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog/dialog-die-zusammensetzung-des-bundesrats-muss-sich-aendern",
-                "Here is a dialog news article: https://www.srf.ch/news/dialog/dialog-respekt-vor-anderen-meinungen-nimmt-ab-findet-die-community",
-                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog/dialog-die-nicht-mehr-ganz-so-magische-formel-fuer-den-bundesrat",
-                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog/srg-umfrage-fehlende-toleranz-gegenueber-anderen-meinungen-ist-ein-problem",
-                "Here's the latest dialog news: https://www.srf.ch/news/dialog/dialog-sogar-lehrpersonen-fragen-sich-fuer-was-man-das-beibringen-muss",
-                "Sure, here's a dialog news link: https://www.srf.ch/news/dialog/dialog-wochendebatte-darf-man-heute-noch-sagen-was-man-denkt",
-                "Here's some dialog news for you: https://www.srf.ch/news/dialog/dialog-wochendebatte-schweizerinnen-und-schweizer-sind-zufrieden-mit-dem-schulsystem",
-                "dialog news coming right up: https://www.srf.ch/news/dialog/dialog-die-rasante-entwicklung-von-ki-verunsichert-die-community",
-                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-wochendebatte-kuenstliche-intelligenz-chance-oder-risiko",
-                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-wer-ist-fuer-burnouts-verantwortlich-die-community-ist-gespalten",
-                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-wochendebatte-traditionen-im-wandel-bedrohung-der-identitaet-oder-notwendig",
-                "dialog news coming right up: https://www.srf.ch/news/dialog/dialog-wochendebatte-stress-und-burnout-nimmt-unser-job-zu-viel-raum-ein",
-                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-wochendebatte-wie-beurteilen-sie-das-schweizerische-asylsystem",
-                "dialog news coming right up: https://www.srf.ch/news/dialog/dialog-wochendebatte-ist-das-gesundheitswesen-kaputt"
-            ]
-        },
-        {
-            "tag": "eishockey",
-            "patterns": [
-                "Get me the latest eishockey",
-                "Tell me about eishockey",
-                "What's happening in eishockey",
-                "Give me updates on eishockey",
-                "I'm interested in eishockey",
-                "Can you provide eishockey ",
-                "Tell me more about eishockey",
-                "Share eishockey",
-                "eishockey"
-            ],
-            "responses": [
-                "Sure, here's a eishockey news link: https://www.srf.ch/sport/eishockey/national-league/ambri-zu-gast-in-davos-verfolgerduell-und-hauptprobe-fuer-den-spengler-cup"
+                "Here's some www.rsi.ch news for you: https://www.rsi.ch/"
             ]
         },
         {
@@ -456,30 +138,12 @@
                 "dok"
             ],
             "responses": [
-                "Here you go, the dok news you requested: https://www.srf.ch/sendungen/dok",
-                "Here's some dok news for you: https://www.srf.ch/sendungen/dok",
-                "Here's the latest dok news: https://www.srf.ch/sendungen/dok/leben-mit-neurodivergenz-adhs-bei-erwachsenen-anpassung-bis-zum-burnout",
                 "Check out this dok news: https://www.srf.ch/sendungen/dok",
-                "Sure, here's a dok news link: https://www.srf.ch/sendungen/dok"
-            ]
-        },
-        {
-            "tag": "gesundheit",
-            "patterns": [
-                "Get me the latest gesundheit",
-                "Tell me about gesundheit",
-                "What's happening in gesundheit",
-                "Give me updates on gesundheit",
-                "I'm interested in gesundheit",
-                "Can you provide gesundheit ",
-                "Tell me more about gesundheit",
-                "Share gesundheit",
-                "gesundheit"
-            ],
-            "responses": [
-                "Sure, here's a gesundheit news link: https://www.srf.ch/wissen/gesundheit/zahngesundheit-bleaching-fuer-weisse-zaehne-sechs-fragen-und-antworten",
-                "Here is a gesundheit news article: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ",
-                "Check out this gesundheit news: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ"
+                "Enjoy this dok news article: https://www.srf.ch/sendungen/dok",
+                "Sure, here's a dok news link: https://www.srf.ch/sendungen/dok/leben-mit-neurodivergenz-adhs-bei-erwachsenen-anpassung-bis-zum-burnout",
+                "dok news coming right up: https://www.srf.ch/sendungen/dok/leben-mit-neurodivergenz-adhs-bei-erwachsenen-anpassung-bis-zum-burnout",
+                "Here's the latest dok news: https://www.srf.ch/sendungen/dok",
+                "dok news coming right up: https://www.srf.ch/sendungen/dok"
             ]
         },
         {
@@ -500,58 +164,76 @@
             ]
         },
         {
-            "tag": "www.rsi.ch",
+            "tag": "literatur",
             "patterns": [
-                "Get me the latest www.rsi.ch",
-                "Tell me about www.rsi.ch",
-                "What's happening in www.rsi.ch",
-                "Give me updates on www.rsi.ch",
-                "I'm interested in www.rsi.ch",
-                "Can you provide www.rsi.ch ",
-                "Tell me more about www.rsi.ch",
-                "Share www.rsi.ch",
-                "www.rsi.ch"
+                "Get me the latest literatur",
+                "Tell me about literatur",
+                "What's happening in literatur",
+                "Give me updates on literatur",
+                "I'm interested in literatur",
+                "Can you provide literatur ",
+                "Tell me more about literatur",
+                "Share literatur",
+                "literatur"
             ],
             "responses": [
-                "Here is a www.rsi.ch news article: https://www.rsi.ch/"
+                "Enjoy this literatur news article: https://www.srf.ch/kultur/literatur/jahresrueckblick-2023-die-spannendsten-buecher-des-jahres-und-eine-kleine-sensation"
             ]
         },
         {
-            "tag": "mehr-sport",
+            "tag": "www.rts.ch",
             "patterns": [
-                "Get me the latest mehr-sport",
-                "Tell me about mehr-sport",
-                "What's happening in mehr-sport",
-                "Give me updates on mehr-sport",
-                "I'm interested in mehr-sport",
-                "Can you provide mehr-sport ",
-                "Tell me more about mehr-sport",
-                "Share mehr-sport",
-                "mehr-sport"
+                "Get me the latest www.rts.ch",
+                "Tell me about www.rts.ch",
+                "What's happening in www.rts.ch",
+                "Give me updates on www.rts.ch",
+                "I'm interested in www.rts.ch",
+                "Can you provide www.rts.ch ",
+                "Tell me more about www.rts.ch",
+                "Share www.rts.ch",
+                "www.rts.ch"
             ],
             "responses": [
-                "Sure, here's a mehr-sport news link: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen",
-                "Enjoy this mehr-sport news article: https://www.srf.ch/sport/mehr-sport/news-aus-dem-us-sport-pistons-kassieren-gegen-capelas-hawks-24-niederlage-in-serie",
-                "Sure, here's a mehr-sport news link: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen"
+                "Here you go, the www.rts.ch news you requested: https://www.rts.ch/"
             ]
         },
         {
-            "tag": "wirtschaft",
+            "tag": "www.radioswissjazz.ch",
             "patterns": [
-                "Get me the latest wirtschaft",
-                "Tell me about wirtschaft",
-                "What's happening in wirtschaft",
-                "Give me updates on wirtschaft",
-                "I'm interested in wirtschaft",
-                "Can you provide wirtschaft ",
-                "Tell me more about wirtschaft",
-                "Share wirtschaft",
-                "wirtschaft"
+                "Get me the latest www.radioswissjazz.ch",
+                "Tell me about www.radioswissjazz.ch",
+                "What's happening in www.radioswissjazz.ch",
+                "Give me updates on www.radioswissjazz.ch",
+                "I'm interested in www.radioswissjazz.ch",
+                "Can you provide www.radioswissjazz.ch ",
+                "Tell me more about www.radioswissjazz.ch",
+                "Share www.radioswissjazz.ch",
+                "www.radioswissjazz.ch"
             ],
             "responses": [
-                "Here's the latest wirtschaft news: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
-                "Here's some wirtschaft news for you: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
-                "Here's some wirtschaft news for you: https://www.srf.ch/news/wirtschaft/huthi-rebellen-im-roten-meer-huthi-angriffe-auf-schiffe-wirbeln-lieferketten-durcheinander"
+                "Here you go, the www.radioswissjazz.ch news you requested: https://www.radioswissjazz.ch/de",
+                "Here is a www.radioswissjazz.ch news article: https://www.radioswissjazz.ch/de"
+            ]
+        },
+        {
+            "tag": "international",
+            "patterns": [
+                "Get me the latest international",
+                "Tell me about international",
+                "What's happening in international",
+                "Give me updates on international",
+                "I'm interested in international",
+                "Can you provide international ",
+                "Tell me more about international",
+                "Share international",
+                "international"
+            ],
+            "responses": [
+                "Enjoy this international news article: https://www.srf.ch/news/international/gravierende-fehler-bundestagswahl-2021-muss-in-berlin-teilweise-wiederholt-werden",
+                "Enjoy this international news article: https://www.srf.ch/sport/fussball/internationale-ligen/aus-gegen-fluminense-endstation-halbfinal-fuer-kollers-al-ahly-an-der-klub-wm",
+                "Here's the latest international news: https://www.srf.ch/news/international/starke-seismische-aktivitaeten-heftigkeit-des-vulkanausbruchs-auf-island-laesst-etwas-nach",
+                "Check out this international news: https://www.srf.ch/news/international",
+                "Here you go, the international news you requested: https://www.srf.ch/news/international/fluchtziel-eu-migrationsroute-belarus-baltikum-tod-am-grenzzaun"
             ]
         },
         {
@@ -572,6 +254,96 @@
             ]
         },
         {
+            "tag": "www.srgssr.ch",
+            "patterns": [
+                "Get me the latest www.srgssr.ch",
+                "Tell me about www.srgssr.ch",
+                "What's happening in www.srgssr.ch",
+                "Give me updates on www.srgssr.ch",
+                "I'm interested in www.srgssr.ch",
+                "Can you provide www.srgssr.ch ",
+                "Tell me more about www.srgssr.ch",
+                "Share www.srgssr.ch",
+                "www.srgssr.ch"
+            ],
+            "responses": [
+                "Here's some www.srgssr.ch news for you: https://www.srgssr.ch/"
+            ]
+        },
+        {
+            "tag": "mensch",
+            "patterns": [
+                "Get me the latest mensch",
+                "Tell me about mensch",
+                "What's happening in mensch",
+                "Give me updates on mensch",
+                "I'm interested in mensch",
+                "Can you provide mensch ",
+                "Tell me more about mensch",
+                "Share mensch",
+                "mensch"
+            ],
+            "responses": [
+                "Check out this mensch news: https://www.srf.ch/wissen/mensch/studie-zum-nein-sagen-einladungen-abzulehnen-ist-weniger-schlimm-als-befuerchtet"
+            ]
+        },
+        {
+            "tag": "www.rtr.ch",
+            "patterns": [
+                "Get me the latest www.rtr.ch",
+                "Tell me about www.rtr.ch",
+                "What's happening in www.rtr.ch",
+                "Give me updates on www.rtr.ch",
+                "I'm interested in www.rtr.ch",
+                "Can you provide www.rtr.ch ",
+                "Tell me more about www.rtr.ch",
+                "Share www.rtr.ch",
+                "www.rtr.ch"
+            ],
+            "responses": [
+                "Check out this www.rtr.ch news: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/kulinarik-rezepte/rezept-aus-graubuenden-maluns",
+                "Here is a www.rtr.ch news article: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch",
+                "Enjoy this www.rtr.ch news article: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch/woerterbuch/wie-sagt-man-auf-raetoromanisch-wintersport",
+                "www.rtr.ch news coming right up: https://www.rtr.ch"
+            ]
+        },
+        {
+            "tag": "mehr-sport",
+            "patterns": [
+                "Get me the latest mehr-sport",
+                "Tell me about mehr-sport",
+                "What's happening in mehr-sport",
+                "Give me updates on mehr-sport",
+                "I'm interested in mehr-sport",
+                "Can you provide mehr-sport ",
+                "Tell me more about mehr-sport",
+                "Share mehr-sport",
+                "mehr-sport"
+            ],
+            "responses": [
+                "Here's some mehr-sport news for you: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen",
+                "Here is a mehr-sport news article: https://www.srf.ch/sport/mehr-sport/news-aus-dem-us-sport-pistons-kassieren-gegen-capelas-hawks-24-niederlage-in-serie",
+                "Sure, here's a mehr-sport news link: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen"
+            ]
+        },
+        {
+            "tag": "website-und-apps",
+            "patterns": [
+                "Get me the latest website-und-apps",
+                "Tell me about website-und-apps",
+                "What's happening in website-und-apps",
+                "Give me updates on website-und-apps",
+                "I'm interested in website-und-apps",
+                "Can you provide website-und-apps ",
+                "Tell me more about website-und-apps",
+                "Share website-und-apps",
+                "website-und-apps"
+            ],
+            "responses": [
+                "Here's the latest website-und-apps news: https://www.srf.ch/hilfe/website-und-apps/srf-apps"
+            ]
+        },
+        {
             "tag": "www.radioswisspop.ch",
             "patterns": [
                 "Get me the latest www.radioswisspop.ch",
@@ -585,8 +357,213 @@
                 "www.radioswisspop.ch"
             ],
             "responses": [
-                "Here's the latest www.radioswisspop.ch news: https://www.radioswisspop.ch/de",
-                "Here's the latest www.radioswisspop.ch news: https://www.radioswisspop.ch/de"
+                "Enjoy this www.radioswisspop.ch news article: https://www.radioswisspop.ch/de",
+                "Here's some www.radioswisspop.ch news for you: https://www.radioswisspop.ch/de"
+            ]
+        },
+        {
+            "tag": "gesellschaft-religion",
+            "patterns": [
+                "Get me the latest gesellschaft-religion",
+                "Tell me about gesellschaft-religion",
+                "What's happening in gesellschaft-religion",
+                "Give me updates on gesellschaft-religion",
+                "I'm interested in gesellschaft-religion",
+                "Can you provide gesellschaft-religion ",
+                "Tell me more about gesellschaft-religion",
+                "Share gesellschaft-religion",
+                "gesellschaft-religion"
+            ],
+            "responses": [
+                "Here's the latest gesellschaft-religion news: https://www.srf.ch/kultur/gesellschaft-religion/star-autorin-ueber-russland-sofi-oksanen-sexuelle-gewalt-ist-teil-der-russischen-strategie"
+            ]
+        },
+        {
+            "tag": "musik",
+            "patterns": [
+                "Get me the latest musik",
+                "Tell me about musik",
+                "What's happening in musik",
+                "Give me updates on musik",
+                "I'm interested in musik",
+                "Can you provide musik ",
+                "Tell me more about musik",
+                "Share musik",
+                "musik"
+            ],
+            "responses": [
+                "Enjoy this musik news article: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-alben-des-jahres",
+                "Here is a musik news article: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-schweizer-alben-des-jahres"
+            ]
+        },
+        {
+            "tag": "radio",
+            "patterns": [
+                "Get me the latest radio",
+                "Tell me about radio",
+                "What's happening in radio",
+                "Give me updates on radio",
+                "I'm interested in radio",
+                "Can you provide radio ",
+                "Tell me more about radio",
+                "Share radio",
+                "radio"
+            ],
+            "responses": [
+                "Here is a radio news article: https://www.srf.ch/sport/eishockey/national-league/radio-legende-wurde-91-jaehrig-zsc-kultreporter-walter-scheibli-verstorben",
+                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-1/sotomo-studie-so-hilfsbereit-ist-die-schweiz-sechs-fakten-zur-solidaritaet",
+                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-3",
+                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-alben-des-jahres",
+                "Here's some radio news for you: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-schweizer-alben-des-jahres",
+                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-1/schweizer-popkultur-hautnah-swissmade-bliss-brachte-weihnachtliche-stimmung-und-comedy-pur",
+                "Check out this radio news: https://www.srf.ch/play/radio/popupaudioplayer?id=9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
+                "Here is a radio news article: https://www.srf.ch/play/radio/popupaudioplayer?id=4702b41c-1ad5-49e2-8e8a-adb59e028538",
+                "Here you go, the radio news you requested: https://www.srf.ch/play/radio/popupaudioplayer?id=444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
+                "Check out this radio news: https://www.srf.ch/play/radio/popupaudioplayer?id=c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
+                "Check out this radio news: https://www.srf.ch/programm/radio",
+                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-1",
+                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-2-kultur",
+                "Enjoy this radio news article: https://www.srf.ch/radio-srf-3",
+                "Here is a radio news article: https://www.srf.ch/radio-srf-4-news",
+                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-musikwelle",
+                "Sure, here's a radio news link: https://www.srf.ch/radio-srf-virus",
+                "Here's some radio news for you: https://www.srf.ch/programm/radio",
+                "Check out this radio news: https://www.srf.ch/radio-srf-1",
+                "Here's some radio news for you: https://www.srf.ch/radio-srf-2-kultur",
+                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-3",
+                "Here's some radio news for you: https://www.srf.ch/radio-srf-4-news",
+                "Here you go, the radio news you requested: https://www.srf.ch/radio-srf-musikwelle",
+                "Check out this radio news: https://www.srf.ch/radio-srf-virus"
+            ]
+        },
+        {
+            "tag": "film-serien",
+            "patterns": [
+                "Get me the latest film-serien",
+                "Tell me about film-serien",
+                "What's happening in film-serien",
+                "Give me updates on film-serien",
+                "I'm interested in film-serien",
+                "Can you provide film-serien ",
+                "Tell me more about film-serien",
+                "Share film-serien",
+                "film-serien"
+            ],
+            "responses": [
+                "Here is a film-serien news article: https://www.srf.ch/kultur/film-serien/kindheitswunsch-filmemacher-ein-berner-traeumt-von-seiner-eigenen-alien-invasion",
+                "Sure, here's a film-serien news link: https://www.srf.ch/kultur/film-serien/streamingstart-davos-1917-das-muessen-sie-zur-spionageserie-davos-1917-wissen",
+                "film-serien news coming right up: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-filme-des-jahres-und-ein-schuss-in-den-ofen",
+                "Enjoy this film-serien news article: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-serien-des-jahres-und-eine-enttaeuschung",
+                "Here's the latest film-serien news: https://www.srf.ch/kultur/film-serien/neu-im-stream-leave-the-world-behind-stars-am-rande-des-weltzusammenbruchs",
+                "Check out this film-serien news: https://www.srf.ch/kultur/film-serien/60-geburtstag-brad-pitt-vom-frauenschwarm-zum-publikumsliebling"
+            ]
+        },
+        {
+            "tag": "dialog",
+            "patterns": [
+                "Get me the latest dialog",
+                "Tell me about dialog",
+                "What's happening in dialog",
+                "Give me updates on dialog",
+                "I'm interested in dialog",
+                "Can you provide dialog ",
+                "Tell me more about dialog",
+                "Share dialog",
+                "dialog"
+            ],
+            "responses": [
+                "Sure, here's a dialog news link: https://www.srf.ch/news/dialog",
+                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog",
+                "Here's some dialog news for you: https://www.srf.ch/news/dialog/was-finden-sie-cop28-ausser-spesen-nichts-gewesen",
+                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-die-zusammensetzung-des-bundesrats-muss-sich-aendern",
+                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-respekt-vor-anderen-meinungen-nimmt-ab-findet-die-community",
+                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-die-nicht-mehr-ganz-so-magische-formel-fuer-den-bundesrat",
+                "Sure, here's a dialog news link: https://www.srf.ch/news/dialog/srg-umfrage-fehlende-toleranz-gegenueber-anderen-meinungen-ist-ein-problem",
+                "Here's the latest dialog news: https://www.srf.ch/news/dialog/dialog-sogar-lehrpersonen-fragen-sich-fuer-was-man-das-beibringen-muss",
+                "Here is a dialog news article: https://www.srf.ch/news/dialog/dialog-wochendebatte-darf-man-heute-noch-sagen-was-man-denkt",
+                "dialog news coming right up: https://www.srf.ch/news/dialog/dialog-wochendebatte-schweizerinnen-und-schweizer-sind-zufrieden-mit-dem-schulsystem",
+                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog/dialog-die-rasante-entwicklung-von-ki-verunsichert-die-community",
+                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-wochendebatte-kuenstliche-intelligenz-chance-oder-risiko",
+                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog/dialog-wer-ist-fuer-burnouts-verantwortlich-die-community-ist-gespalten",
+                "Here you go, the dialog news you requested: https://www.srf.ch/news/dialog/dialog-wochendebatte-traditionen-im-wandel-bedrohung-der-identitaet-oder-notwendig",
+                "dialog news coming right up: https://www.srf.ch/news/dialog/dialog-wochendebatte-stress-und-burnout-nimmt-unser-job-zu-viel-raum-ein",
+                "Check out this dialog news: https://www.srf.ch/news/dialog/dialog-wochendebatte-wie-beurteilen-sie-das-schweizerische-asylsystem",
+                "Here's the latest dialog news: https://www.srf.ch/news/dialog/dialog-wochendebatte-ist-das-gesundheitswesen-kaputt"
+            ]
+        },
+        {
+            "tag": "kassensturz-espresso",
+            "patterns": [
+                "Get me the latest kassensturz-espresso",
+                "Tell me about kassensturz-espresso",
+                "What's happening in kassensturz-espresso",
+                "Give me updates on kassensturz-espresso",
+                "I'm interested in kassensturz-espresso",
+                "Can you provide kassensturz-espresso ",
+                "Tell me more about kassensturz-espresso",
+                "Share kassensturz-espresso",
+                "kassensturz-espresso"
+            ],
+            "responses": [
+                "Check out this kassensturz-espresso news: https://www.srf.ch/sendungen/kassensturz-espresso/espresso/nach-17-jahren-letzte-sendung-fuer-kathrin-winzenried-es-hat-was-unwirkliches"
+            ]
+        },
+        {
+            "tag": "fussball",
+            "patterns": [
+                "Get me the latest fussball",
+                "Tell me about fussball",
+                "What's happening in fussball",
+                "Give me updates on fussball",
+                "I'm interested in fussball",
+                "Can you provide fussball ",
+                "Tell me more about fussball",
+                "Share fussball",
+                "fussball"
+            ],
+            "responses": [
+                "Here is a fussball news article: https://www.srf.ch/sport/fussball/internationale-ligen/aus-gegen-fluminense-endstation-halbfinal-fuer-kollers-al-ahly-an-der-klub-wm",
+                "Here you go, the fussball news you requested: https://www.srf.ch/sport/fussball/super-league/mit-der-hacke-ins-glueck-ittens-kabinettstueckchen-ist-das-tor-der-herbstrunde"
+            ]
+        },
+        {
+            "tag": "school",
+            "patterns": [
+                "Get me the latest school",
+                "Tell me about school",
+                "What's happening in school",
+                "Give me updates on school",
+                "I'm interested in school",
+                "Can you provide school ",
+                "Tell me more about school",
+                "Share school",
+                "school"
+            ],
+            "responses": [
+                "Here is a school news article: https://www.srf.ch/sendungen/school/braeuche-und-tradition-weihnachtsgeschenke-diese-geschichten-stecken-dahinter",
+                "Enjoy this school news article: https://www.srf.ch/sendungen/school/gesellschaft-ethik-religion/sexuelle-uebergriffe-stop-it-now",
+                "Check out this school news: https://www.srf.ch/sendungen/school/geschichte-geografie/in-die-neue-welt-amerigo-vespucci-der-mann-der-amerika-seinen-namen-gab",
+                "Check out this school news: https://www.srf.ch/sendungen/school",
+                "Here you go, the school news you requested: https://www.srf.ch/sendungen/school"
+            ]
+        },
+        {
+            "tag": "themen",
+            "patterns": [
+                "Get me the latest themen",
+                "Tell me about themen",
+                "What's happening in themen",
+                "Give me updates on themen",
+                "I'm interested in themen",
+                "Can you provide themen ",
+                "Tell me more about themen",
+                "Share themen",
+                "themen"
+            ],
+            "responses": [
+                "Enjoy this themen news article: https://www.srf.ch/play/tv/themen/serien",
+                "themen news coming right up: https://www.srf.ch/play/tv/themen/gebaerdensprache",
+                "Here's the latest themen news: https://www.srf.ch/audio/themen/kinder-familie"
             ]
         },
         {
@@ -603,24 +580,329 @@
                 "www.swissinfo.ch"
             ],
             "responses": [
-                "Enjoy this www.swissinfo.ch news article: https://www.swissinfo.ch/"
+                "Sure, here's a www.swissinfo.ch news link: https://www.swissinfo.ch/"
             ]
         },
         {
-            "tag": "www.rts.ch",
+            "tag": "www.srf.ch",
             "patterns": [
-                "Get me the latest www.rts.ch",
-                "Tell me about www.rts.ch",
-                "What's happening in www.rts.ch",
-                "Give me updates on www.rts.ch",
-                "I'm interested in www.rts.ch",
-                "Can you provide www.rts.ch ",
-                "Tell me more about www.rts.ch",
-                "Share www.rts.ch",
-                "www.rts.ch"
+                "Get me the latest www.srf.ch",
+                "Tell me about www.srf.ch",
+                "What's happening in www.srf.ch",
+                "Give me updates on www.srf.ch",
+                "I'm interested in www.srf.ch",
+                "Can you provide www.srf.ch ",
+                "Tell me more about www.srf.ch",
+                "Share www.srf.ch",
+                "www.srf.ch"
             ],
             "responses": [
-                "Here is a www.rts.ch news article: https://www.rts.ch/"
+                "Check out this www.srf.ch news: https://www.srf.ch#skiplink__contentlink",
+                "www.srf.ch news coming right up: https://www.srf.ch/",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news",
+                "Check out this www.srf.ch news: https://www.srf.ch/sport",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo",
+                "Here is a www.srf.ch news article: https://www.srf.ch/kultur",
+                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/dok",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/wissen",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv",
+                "Check out this www.srf.ch news: https://www.srf.ch/audio",
+                "Check out this www.srf.ch news: https://www.srf.ch#skiplink__footer",
+                "Here is a www.srf.ch news article: https://www.srf.ch/news",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/sport",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo",
+                "Here is a www.srf.ch news article: https://www.srf.ch/kultur",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/sendungen/dok",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/wissen",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/sendungen/dok/leben-mit-neurodivergenz-adhs-bei-erwachsenen-anpassung-bis-zum-burnout",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/news/schweiz/2-5-milliarden-fuer-bahnausbau-der-staenderat-stellt-die-weichen-fuer-die-bahn-der-zukunft",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/news/schweiz/felsplatte-loest-sich-massiver-erdrutsch-fuehrt-zu-grossen-verwuestungen",
+                "www.srf.ch news coming right up: https://www.srf.ch/news/international/gravierende-fehler-bundestagswahl-2021-muss-in-berlin-teilweise-wiederholt-werden",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/schweiz/umstrittener-1-mai-einsatz-europaeischer-gerichtshof-ruegt-zuercher-polizei",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/kultur/film-serien/kindheitswunsch-filmemacher-ein-berner-traeumt-von-seiner-eigenen-alien-invasion",
+                "www.srf.ch news coming right up: https://www.srf.ch/sendungen/kassensturz-espresso/espresso/nach-17-jahren-letzte-sendung-fuer-kathrin-winzenried-es-hat-was-unwirkliches",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/schweiz/wintersession-2023-auch-nationalrat-will-terrororganisation-hamas-verbieten",
+                "Check out this www.srf.ch news: https://www.srf.ch/sport",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/sport/eishockey/national-league/ambri-zu-gast-in-davos-verfolgerduell-und-hauptprobe-fuer-den-spengler-cup",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/sport/eishockey/national-league/radio-legende-wurde-91-jaehrig-zsc-kultreporter-walter-scheibli-verstorben",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sport/mehr-sport/news-aus-dem-us-sport-pistons-kassieren-gegen-capelas-hawks-24-niederlage-in-serie",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sport/fussball/internationale-ligen/aus-gegen-fluminense-endstation-halbfinal-fuer-kollers-al-ahly-an-der-klub-wm",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/sport/fussball/super-league/mit-der-hacke-ins-glueck-ittens-kabinettstueckchen-ist-das-tor-der-herbstrunde",
+                "Check out this www.srf.ch news: https://www.srf.ch/kultur/film-serien/streamingstart-davos-1917-das-muessen-sie-zur-spionageserie-davos-1917-wissen",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-1/sotomo-studie-so-hilfsbereit-ist-die-schweiz-sechs-fakten-zur-solidaritaet",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/radio-srf-3",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/meteo",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/warnungen",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-19",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-19",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-19",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-19",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-19",
+                "Check out this www.srf.ch news: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-19",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-19",
+                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-19",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-19",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-19",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-20",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-20",
+                "Check out this www.srf.ch news: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-20",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-20",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-20",
+                "Check out this www.srf.ch news: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-20",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-20",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-20",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-20",
+                "Here is a www.srf.ch news article: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-20",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetterbericht",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/radar",
+                "www.srf.ch news coming right up: https://www.srf.ch/meteo/wetterbericht",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/news/international/starke-seismische-aktivitaeten-heftigkeit-des-vulkanausbruchs-auf-island-laesst-etwas-nach",
+                "www.srf.ch news coming right up: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/sport/mehr-sport/skispringen/kurz-vor-tournee-springen-lawine-beschaedigt-schanze-in-bischofshofen",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/dok/leben-mit-neurodivergenz-adhs-bei-erwachsenen-anpassung-bis-zum-burnout",
+                "Check out this www.srf.ch news: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news/schweiz",
+                "Check out this www.srf.ch news: https://www.srf.ch/news/international",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news/dialog",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/themen/serien",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/international/fluchtziel-eu-migrationsroute-belarus-baltikum-tod-am-grenzzaun",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-filme-des-jahres-und-ein-schuss-in-den-ofen",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/kultur/literatur/jahresrueckblick-2023-die-spannendsten-buecher-des-jahres-und-eine-kleine-sensation",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-serien-des-jahres-und-eine-enttaeuschung",
+                "Here is a www.srf.ch news article: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-alben-des-jahres",
+                "Here is a www.srf.ch news article: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-schweizer-alben-des-jahres",
+                "www.srf.ch news coming right up: https://www.srf.ch/radio-srf-1/schweizer-popkultur-hautnah-swissmade-bliss-brachte-weihnachtliche-stimmung-und-comedy-pur",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/kultur/film-serien/neu-im-stream-leave-the-world-behind-stars-am-rande-des-weltzusammenbruchs",
+                "Here is a www.srf.ch news article: https://www.srf.ch/wissen/gesundheit/zahngesundheit-bleaching-fuer-weisse-zaehne-sechs-fragen-und-antworten",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/wissen/mensch/studie-zum-nein-sagen-einladungen-abzulehnen-ist-weniger-schlimm-als-befuerchtet",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ",
+                "www.srf.ch news coming right up: https://www.srf.ch/entspannt-ins-neue-jahr-sechs-ueberlebenstipps-fuer-die-festtage",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/schweiz/weder-maedchen-noch-junge-diskussion-ueber-intergeschlechtliche-kinder-das-sagen-betroffene",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/kultur/gesellschaft-religion/star-autorin-ueber-russland-sofi-oksanen-sexuelle-gewalt-ist-teil-der-russischen-strategie",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/kultur/film-serien/60-geburtstag-brad-pitt-vom-frauenschwarm-zum-publikumsliebling",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/_/video/_?id=f1dcbba1-f843-4863-b32f-721f06e05725&urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725&aspectRatio=16_9",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c",
+                "Here is a www.srf.ch news article: https://www.srf.ch/play/tv/_/video/_?id=907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&aspectRatio=16_9",
+                "Check out this www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/play/tv/_/video/_?id=7ff5469e-110f-43c4-9080-8a0991d743c6&urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6&aspectRatio=16_9",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3",
+                "Here is a www.srf.ch news article: https://www.srf.ch/play/tv/_/video/_?id=fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&aspectRatio=16_9",
+                "www.srf.ch news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/_/video/_?id=0b577a10-877f-438e-9369-d7d05ffdb764&urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764&aspectRatio=16_9",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/themen/gebaerdensprache",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/dialog",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/was-finden-sie-cop28-ausser-spesen-nichts-gewesen",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/dialog-die-zusammensetzung-des-bundesrats-muss-sich-aendern",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/dialog/dialog-respekt-vor-anderen-meinungen-nimmt-ab-findet-die-community",
+                "Check out this www.srf.ch news: https://www.srf.ch/news/dialog/dialog-die-nicht-mehr-ganz-so-magische-formel-fuer-den-bundesrat",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news/dialog/srg-umfrage-fehlende-toleranz-gegenueber-anderen-meinungen-ist-ein-problem",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/news/dialog/dialog-sogar-lehrpersonen-fragen-sich-fuer-was-man-das-beibringen-muss",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news/dialog/dialog-wochendebatte-darf-man-heute-noch-sagen-was-man-denkt",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/dialog-wochendebatte-schweizerinnen-und-schweizer-sind-zufrieden-mit-dem-schulsystem",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news/dialog/dialog-die-rasante-entwicklung-von-ki-verunsichert-die-community",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/news/dialog/dialog-wochendebatte-kuenstliche-intelligenz-chance-oder-risiko",
+                "www.srf.ch news coming right up: https://www.srf.ch/news/dialog/dialog-wer-ist-fuer-burnouts-verantwortlich-die-community-ist-gespalten",
+                "www.srf.ch news coming right up: https://www.srf.ch/news/dialog/dialog-wochendebatte-traditionen-im-wandel-bedrohung-der-identitaet-oder-notwendig",
+                "Here is a www.srf.ch news article: https://www.srf.ch/news/dialog/dialog-wochendebatte-stress-und-burnout-nimmt-unser-job-zu-viel-raum-ein",
+                "Here is a www.srf.ch news article: https://www.srf.ch/news/dialog/dialog-wochendebatte-wie-beurteilen-sie-das-schweizerische-asylsystem",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/news/dialog/dialog-wochendebatte-ist-das-gesundheitswesen-kaputt",
+                "Check out this www.srf.ch news: https://www.srf.ch/news/neues-angebot-dialog-erleben-sie-news-und-debatte-neu",
+                "Here is a www.srf.ch news article: https://www.srf.ch/sendungen/school/braeuche-und-tradition-weihnachtsgeschenke-diese-geschichten-stecken-dahinter",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/sendungen/school/gesellschaft-ethik-religion/sexuelle-uebergriffe-stop-it-now",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/play/radio/popupaudioplayer?id=9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/sendungen/school/geschichte-geografie/in-die-neue-welt-amerigo-vespucci-der-mann-der-amerika-seinen-namen-gab",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/kids",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/audio/themen/kinder-familie",
+                "Here is a www.srf.ch news article: https://www.srf.ch/kids/eltern-1",
+                "Check out this www.srf.ch news: https://www.srf.ch/audio/podcast-empfehlungen-der-woche-der-rizz-von-tom-holland-und-vier-weitere-podcast-tipps",
+                "www.srf.ch news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:4702b41c-1ad5-49e2-8e8a-adb59e028538",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/radio/popupaudioplayer?id=4702b41c-1ad5-49e2-8e8a-adb59e028538",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
+                "Here is a www.srf.ch news article: https://www.srf.ch/play/radio/popupaudioplayer?id=444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/radio/popupaudioplayer?id=c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
+                "Check out this www.srf.ch news: https://www.srf.ch/audio",
+                "Here is a www.srf.ch news article: https://www.srf.ch/audio/woechentlicher-newsletter-abonniere-den-srf-podcast-newsletter",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/_/video/_?id=287e5d50-83b5-401a-8ba2-7e69eaddd8d0&urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0&aspectRatio=16_9",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/play/tv/_/video/_?id=f514bab0-b8ac-4edb-b226-69cf26215afa&urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa&aspectRatio=16_9",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/sendung/archivperlen?id=eb4f3b13-0362-4ea8-b7b3-325382c86ef2",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/sendungen?onlyActiveShows=false",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/taeglich-das-info-und-aufsteller-abo-der-srf-newsletter",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/kultur/highlights-mit-tiefgang-abonnieren-sie-den-newsletter-von-srf-kultur",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/audio/woechentlicher-newsletter-abonniere-den-podcast-newsletter",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/newsletter-uebersicht-srf-newsletter-abonnieren-1",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/emissiuns/decodar-nossa-cultura",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch",
+                "Check out this www.srf.ch news: https://www.srf.ch/",
+                "www.srf.ch news coming right up: https://www.srf.ch/news",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/sport",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/meteo",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/kultur",
+                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/dok",
+                "www.srf.ch news coming right up: https://www.srf.ch/wissen",
+                "Here is a www.srf.ch news article: https://www.srf.ch/play/tv",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/audio",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/programm",
+                "Here is a www.srf.ch news article: https://www.srf.ch/programm/radio",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/sendungen/archiv",
+                "Here is a www.srf.ch news article: https://www.srf.ch/news/verkehrsinformationen",
+                "Here is a www.srf.ch news article: https://www.srf.ch/kids",
+                "Check out this www.srf.ch news: https://www.srf.ch/sendungen/school",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/newsletter-uebersicht-srf-newsletter-abonnieren",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sendungen/hallosrf",
+                "Here is a www.srf.ch news article: https://www.srf.ch/unternehmen",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/radio-srf-1",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/radio-srf-2-kultur",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-3",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/radio-srf-4-news",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/radio-srf-musikwelle",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/radio-srf-virus",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/hilfe/website-und-apps/srf-apps",
+                "www.srf.ch news coming right up: https://www.srf.ch/von-a-bis-z-themenliste",
+                "Check out this www.srf.ch news: https://www.srf.ch/tv/tv-korrekturen-1",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/hilfe-fragen-antworten-hilfestellungen",
+                "www.srf.ch news coming right up: https://www.srf.ch/hilfe-kontakt",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/ueber-srf-impressum",
+                "Check out this www.srf.ch news: https://www.srf.ch/rechtliches-datenschutzerklaerung",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/rechtliches",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/rechtliches-nutzungsbedingungen",
+                "www.srf.ch news coming right up: https://www.srf.ch/",
+                "Here's the latest www.srf.ch news: https://www.srf.ch",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/news",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/sport",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/meteo",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/kultur",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/sendungen/dok",
+                "Here is a www.srf.ch news article: https://www.srf.ch/wissen",
+                "www.srf.ch news coming right up: https://www.srf.ch/play/tv",
+                "www.srf.ch news coming right up: https://www.srf.ch/audio",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/play/tv/programm",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/programm/radio",
+                "Here is a www.srf.ch news article: https://www.srf.ch/sendungen/archiv",
+                "www.srf.ch news coming right up: https://www.srf.ch/news/verkehrsinformationen",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/kids",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch/sendungen/school",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/newsletter-uebersicht-srf-newsletter-abonnieren",
+                "Here's the latest www.srf.ch news: https://www.srf.ch/sendungen/hallosrf",
+                "Sure, here's a www.srf.ch news link: https://www.srf.ch/unternehmen",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-1",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-2-kultur",
+                "Here's some www.srf.ch news for you: https://www.srf.ch/radio-srf-3",
+                "Check out this www.srf.ch news: https://www.srf.ch/radio-srf-4-news",
+                "www.srf.ch news coming right up: https://www.srf.ch/radio-srf-musikwelle",
+                "Here you go, the www.srf.ch news you requested: https://www.srf.ch/radio-srf-virus",
+                "Enjoy this www.srf.ch news article: https://www.srf.ch"
+            ]
+        },
+        {
+            "tag": "gesellschaft",
+            "patterns": [
+                "Get me the latest gesellschaft",
+                "Tell me about gesellschaft",
+                "What's happening in gesellschaft",
+                "Give me updates on gesellschaft",
+                "I'm interested in gesellschaft",
+                "Can you provide gesellschaft ",
+                "Tell me more about gesellschaft",
+                "Share gesellschaft",
+                "gesellschaft"
+            ],
+            "responses": [
+                "gesellschaft news coming right up: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
+                "Here you go, the gesellschaft news you requested: https://www.srf.ch/news/gesellschaft/diagnose-long-covid-zwei-prominente-betroffene-ueber-ihren-eingeschraenkten-alltag",
+                "Sure, here's a gesellschaft news link: https://www.srf.ch/kultur/gesellschaft-religion/star-autorin-ueber-russland-sofi-oksanen-sexuelle-gewalt-ist-teil-der-russischen-strategie",
+                "Here you go, the gesellschaft news you requested: https://www.srf.ch/sendungen/school/gesellschaft-ethik-religion/sexuelle-uebergriffe-stop-it-now"
+            ]
+        },
+        {
+            "tag": "gesundheit",
+            "patterns": [
+                "Get me the latest gesundheit",
+                "Tell me about gesundheit",
+                "What's happening in gesundheit",
+                "Give me updates on gesundheit",
+                "I'm interested in gesundheit",
+                "Can you provide gesundheit ",
+                "Tell me more about gesundheit",
+                "Share gesundheit",
+                "gesundheit"
+            ],
+            "responses": [
+                "Check out this gesundheit news: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ",
+                "Here's the latest gesundheit news: https://www.srf.ch/wissen/gesundheit/zahngesundheit-bleaching-fuer-weisse-zaehne-sechs-fragen-und-antworten",
+                "Here is a gesundheit news article: https://www.srf.ch/wissen/gesundheit/herz-lunge-niere-jede-fuenfte-person-hat-ein-vorgealtertes-organ"
+            ]
+        },
+        {
+            "tag": "decodar-nossa-cultura",
+            "patterns": [
+                "Get me the latest decodar-nossa-cultura",
+                "Tell me about decodar-nossa-cultura",
+                "What's happening in decodar-nossa-cultura",
+                "Give me updates on decodar-nossa-cultura",
+                "I'm interested in decodar-nossa-cultura",
+                "Can you provide decodar-nossa-cultura ",
+                "Tell me more about decodar-nossa-cultura",
+                "Share decodar-nossa-cultura",
+                "decodar-nossa-cultura"
+            ],
+            "responses": [
+                "Enjoy this decodar-nossa-cultura news article: https://www.srf.ch/emissiuns/decodar-nossa-cultura",
+                "Enjoy this decodar-nossa-cultura news article: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/kulinarik-rezepte/rezept-aus-graubuenden-maluns",
+                "Here you go, the decodar-nossa-cultura news you requested: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch",
+                "Here's some decodar-nossa-cultura news for you: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch/woerterbuch/wie-sagt-man-auf-raetoromanisch-wintersport"
+            ]
+        },
+        {
+            "tag": "wetter",
+            "patterns": [
+                "Get me the latest wetter",
+                "Tell me about wetter",
+                "What's happening in wetter",
+                "Give me updates on wetter",
+                "I'm interested in wetter",
+                "Can you provide wetter ",
+                "Tell me more about wetter",
+                "Share wetter",
+                "wetter"
+            ],
+            "responses": [
+                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-19",
+                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-19",
+                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-19",
+                "Enjoy this wetter news article: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-19",
+                "Here is a wetter news article: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-19",
+                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-19",
+                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-19",
+                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-19",
+                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-19",
+                "wetter news coming right up: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-19",
+                "Check out this wetter news: https://www.srf.ch/meteo/wetter/bern/46.9471,7.4441?date=2023-12-20",
+                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetter/zuerich/47.3797,8.5342?date=2023-12-20",
+                "Here's some wetter news for you: https://www.srf.ch/meteo/wetter/chur/46.8507,9.5317?date=2023-12-20",
+                "Here you go, the wetter news you requested: https://www.srf.ch/meteo/wetter/genf/46.2100,6.1432?date=2023-12-20",
+                "Check out this wetter news: https://www.srf.ch/meteo/wetter/lugano/46.0050,8.9510?date=2023-12-20",
+                "Here's the latest wetter news: https://www.srf.ch/meteo/wetter/basel/47.5477,7.5899?date=2023-12-20",
+                "Here you go, the wetter news you requested: https://www.srf.ch/meteo/wetter/sitten/46.2277,7.3595?date=2023-12-20",
+                "Here you go, the wetter news you requested: https://www.srf.ch/meteo/wetter/st-gallen/47.4233,9.3774?date=2023-12-20",
+                "Here you go, the wetter news you requested: https://www.srf.ch/meteo/wetter/luzern/47.0456,8.3087?date=2023-12-20",
+                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetter/neuenburg/46.9979,6.9383?date=2023-12-20",
+                "Here's some wetter news for you: https://www.srf.ch/meteo/wetterbericht",
+                "Sure, here's a wetter news link: https://www.srf.ch/meteo/wetterbericht"
             ]
         },
         {
@@ -639,143 +921,29 @@
             "responses": [
                 "video news coming right up: https://www.srf.ch/play/tv/_/video/_?id=f1dcbba1-f843-4863-b32f-721f06e05725&urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725&aspectRatio=16_9",
                 "Here's the latest video news: https://www.srf.ch/play/tv/_/video/_?id=907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&aspectRatio=16_9",
-                "video news coming right up: https://www.srf.ch/play/tv/_/video/_?id=7ff5469e-110f-43c4-9080-8a0991d743c6&urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6&aspectRatio=16_9",
-                "Here is a video news article: https://www.srf.ch/play/tv/_/video/_?id=fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&aspectRatio=16_9",
-                "Here's some video news for you: https://www.srf.ch/play/tv/_/video/_?id=0b577a10-877f-438e-9369-d7d05ffdb764&urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764&aspectRatio=16_9",
-                "Here's some video news for you: https://www.srf.ch/play/tv/_/video/_?id=287e5d50-83b5-401a-8ba2-7e69eaddd8d0&urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0&aspectRatio=16_9",
-                "Here's some video news for you: https://www.srf.ch/play/tv/_/video/_?id=f514bab0-b8ac-4edb-b226-69cf26215afa&urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa&aspectRatio=16_9"
+                "Here's the latest video news: https://www.srf.ch/play/tv/_/video/_?id=7ff5469e-110f-43c4-9080-8a0991d743c6&urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6&aspectRatio=16_9",
+                "Check out this video news: https://www.srf.ch/play/tv/_/video/_?id=fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&aspectRatio=16_9",
+                "Here's the latest video news: https://www.srf.ch/play/tv/_/video/_?id=0b577a10-877f-438e-9369-d7d05ffdb764&urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764&aspectRatio=16_9",
+                "video news coming right up: https://www.srf.ch/play/tv/_/video/_?id=287e5d50-83b5-401a-8ba2-7e69eaddd8d0&urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0&aspectRatio=16_9",
+                "Here's the latest video news: https://www.srf.ch/play/tv/_/video/_?id=f514bab0-b8ac-4edb-b226-69cf26215afa&urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa&aspectRatio=16_9"
             ]
         },
         {
-            "tag": "school",
+            "tag": "wirtschaft",
             "patterns": [
-                "Get me the latest school",
-                "Tell me about school",
-                "What's happening in school",
-                "Give me updates on school",
-                "I'm interested in school",
-                "Can you provide school ",
-                "Tell me more about school",
-                "Share school",
-                "school"
+                "Get me the latest wirtschaft",
+                "Tell me about wirtschaft",
+                "What's happening in wirtschaft",
+                "Give me updates on wirtschaft",
+                "I'm interested in wirtschaft",
+                "Can you provide wirtschaft ",
+                "Tell me more about wirtschaft",
+                "Share wirtschaft",
+                "wirtschaft"
             ],
             "responses": [
-                "Sure, here's a school news link: https://www.srf.ch/sendungen/school/braeuche-und-tradition-weihnachtsgeschenke-diese-geschichten-stecken-dahinter",
-                "Check out this school news: https://www.srf.ch/sendungen/school/gesellschaft-ethik-religion/sexuelle-uebergriffe-stop-it-now",
-                "Here's the latest school news: https://www.srf.ch/sendungen/school/geschichte-geografie/in-die-neue-welt-amerigo-vespucci-der-mann-der-amerika-seinen-namen-gab",
-                "Enjoy this school news article: https://www.srf.ch/sendungen/school",
-                "Here is a school news article: https://www.srf.ch/sendungen/school"
-            ]
-        },
-        {
-            "tag": "gesellschaft-religion",
-            "patterns": [
-                "Get me the latest gesellschaft-religion",
-                "Tell me about gesellschaft-religion",
-                "What's happening in gesellschaft-religion",
-                "Give me updates on gesellschaft-religion",
-                "I'm interested in gesellschaft-religion",
-                "Can you provide gesellschaft-religion ",
-                "Tell me more about gesellschaft-religion",
-                "Share gesellschaft-religion",
-                "gesellschaft-religion"
-            ],
-            "responses": [
-                "Here is a gesellschaft-religion news article: https://www.srf.ch/kultur/gesellschaft-religion/star-autorin-ueber-russland-sofi-oksanen-sexuelle-gewalt-ist-teil-der-russischen-strategie"
-            ]
-        },
-        {
-            "tag": "schweiz",
-            "patterns": [
-                "Get me the latest schweiz",
-                "Tell me about schweiz",
-                "What's happening in schweiz",
-                "Give me updates on schweiz",
-                "I'm interested in schweiz",
-                "Can you provide schweiz ",
-                "Tell me more about schweiz",
-                "Share schweiz",
-                "schweiz"
-            ],
-            "responses": [
-                "Here's some schweiz news for you: https://www.srf.ch/news/schweiz/umstrittener-1-mai-einsatz-europaeische-gerichtshof-ruegt-zuercher-polizei",
-                "Here's the latest schweiz news: https://www.srf.ch/news/schweiz/wintersession-2023-auch-nationalrat-will-terrororganisation-hamas-verbieten",
-                "Enjoy this schweiz news article: https://www.srf.ch/news/schweiz/weder-maedchen-noch-junge-diskussion-ueber-intergeschlechtliche-kinder-das-sagen-betroffene",
-                "Here you go, the schweiz news you requested: https://www.srf.ch/news/schweiz",
-                "Check out this schweiz news: https://www.srf.ch/radio-srf-1/schweizer-popkultur-hautnah-swissmade-bliss-brachte-weihnachtliche-stimmung-und-comedy-pur"
-            ]
-        },
-        {
-            "tag": "themen",
-            "patterns": [
-                "Get me the latest themen",
-                "Tell me about themen",
-                "What's happening in themen",
-                "Give me updates on themen",
-                "I'm interested in themen",
-                "Can you provide themen ",
-                "Tell me more about themen",
-                "Share themen",
-                "themen"
-            ],
-            "responses": [
-                "Here you go, the themen news you requested: https://www.srf.ch/play/tv/themen/serien",
-                "Here's the latest themen news: https://www.srf.ch/play/tv/themen/gebaerdensprache",
-                "Check out this themen news: https://www.srf.ch/audio/themen/kinder-familie"
-            ]
-        },
-        {
-            "tag": "mensch",
-            "patterns": [
-                "Get me the latest mensch",
-                "Tell me about mensch",
-                "What's happening in mensch",
-                "Give me updates on mensch",
-                "I'm interested in mensch",
-                "Can you provide mensch ",
-                "Tell me more about mensch",
-                "Share mensch",
-                "mensch"
-            ],
-            "responses": [
-                "Here is a mensch news article: https://www.srf.ch/wissen/mensch/studie-zum-nein-sagen-einladungen-abzulehnen-ist-weniger-schlimm-als-befuerchtet"
-            ]
-        },
-        {
-            "tag": "website-und-apps",
-            "patterns": [
-                "Get me the latest website-und-apps",
-                "Tell me about website-und-apps",
-                "What's happening in website-und-apps",
-                "Give me updates on website-und-apps",
-                "I'm interested in website-und-apps",
-                "Can you provide website-und-apps ",
-                "Tell me more about website-und-apps",
-                "Share website-und-apps",
-                "website-und-apps"
-            ],
-            "responses": [
-                "Here is a website-und-apps news article: https://www.srf.ch/hilfe/website-und-apps/srf-apps"
-            ]
-        },
-        {
-            "tag": "www.rtr.ch",
-            "patterns": [
-                "Get me the latest www.rtr.ch",
-                "Tell me about www.rtr.ch",
-                "What's happening in www.rtr.ch",
-                "Give me updates on www.rtr.ch",
-                "I'm interested in www.rtr.ch",
-                "Can you provide www.rtr.ch ",
-                "Tell me more about www.rtr.ch",
-                "Share www.rtr.ch",
-                "www.rtr.ch"
-            ],
-            "responses": [
-                "Here is a www.rtr.ch news article: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/kulinarik-rezepte/rezept-aus-graubuenden-maluns",
-                "Sure, here's a www.rtr.ch news link: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch",
-                "Enjoy this www.rtr.ch news article: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch/woerterbuch/wie-sagt-man-auf-raetoromanisch-wintersport",
-                "Here's some www.rtr.ch news for you: https://www.rtr.ch"
+                "Sure, here's a wirtschaft news link: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger",
+                "Here's the latest wirtschaft news: https://www.srf.ch/news/wirtschaft/saisonale-preisschwankungen-grosser-preis-check-diese-artikel-sind-vor-weihnachten-billiger"
             ]
         },
         {
@@ -792,189 +960,7 @@
                 "jobs.srf.ch"
             ],
             "responses": [
-                "jobs.srf.ch news coming right up: https://jobs.srf.ch/de/startseite/"
-            ]
-        },
-        {
-            "tag": "decodar-nossa-cultura",
-            "patterns": [
-                "Get me the latest decodar-nossa-cultura",
-                "Tell me about decodar-nossa-cultura",
-                "What's happening in decodar-nossa-cultura",
-                "Give me updates on decodar-nossa-cultura",
-                "I'm interested in decodar-nossa-cultura",
-                "Can you provide decodar-nossa-cultura ",
-                "Tell me more about decodar-nossa-cultura",
-                "Share decodar-nossa-cultura",
-                "decodar-nossa-cultura"
-            ],
-            "responses": [
-                "Here you go, the decodar-nossa-cultura news you requested: https://www.srf.ch/emissiuns/decodar-nossa-cultura",
-                "Enjoy this decodar-nossa-cultura news article: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/kulinarik-rezepte/rezept-aus-graubuenden-maluns",
-                "decodar-nossa-cultura news coming right up: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch",
-                "decodar-nossa-cultura news coming right up: https://www.rtr.ch/emissiuns/decodar-nossa-cultura/raetoromanisch/woerterbuch/wie-sagt-man-auf-raetoromanisch-wintersport"
-            ]
-        },
-        {
-            "tag": "literatur",
-            "patterns": [
-                "Get me the latest literatur",
-                "Tell me about literatur",
-                "What's happening in literatur",
-                "Give me updates on literatur",
-                "I'm interested in literatur",
-                "Can you provide literatur ",
-                "Tell me more about literatur",
-                "Share literatur",
-                "literatur"
-            ],
-            "responses": [
-                "Here is a literatur news article: https://www.srf.ch/kultur/literatur/jahresrueckblick-2023-die-spannendsten-buecher-des-jahres-und-eine-kleine-sensation"
-            ]
-        },
-        {
-            "tag": "international",
-            "patterns": [
-                "Get me the latest international",
-                "Tell me about international",
-                "What's happening in international",
-                "Give me updates on international",
-                "I'm interested in international",
-                "Can you provide international ",
-                "Tell me more about international",
-                "Share international",
-                "international"
-            ],
-            "responses": [
-                "Here's some international news for you: https://www.srf.ch/news/international/gravierende-fehler-bundestagswahl-2021-muss-in-berlin-teilweise-wiederholt-werden",
-                "Here is a international news article: https://www.srf.ch/news/international/starke-seismische-aktivitaeten-heftigkeit-des-vulkanausbruchs-auf-island-laesst-etwas-nach",
-                "Sure, here's a international news link: https://www.srf.ch/sport/fussball/internationale-ligen/aus-gegen-fluminense-endstation-halbfinal-fuer-kollers-al-ahly-an-der-klub-wm",
-                "Here's the latest international news: https://www.srf.ch/news/international/starke-seismische-aktivitaeten-heftigkeit-des-vulkanausbruchs-auf-island-laesst-etwas-nach",
-                "Enjoy this international news article: https://www.srf.ch/news/international",
-                "Here's the latest international news: https://www.srf.ch/news/international/fluchtziel-eu-migrationsroute-belarus-baltikum-tod-am-grenzzaun"
-            ]
-        },
-        {
-            "tag": "film-serien",
-            "patterns": [
-                "Get me the latest film-serien",
-                "Tell me about film-serien",
-                "What's happening in film-serien",
-                "Give me updates on film-serien",
-                "I'm interested in film-serien",
-                "Can you provide film-serien ",
-                "Tell me more about film-serien",
-                "Share film-serien",
-                "film-serien"
-            ],
-            "responses": [
-                "Check out this film-serien news: https://www.srf.ch/kultur/film-serien/streamingstart-davos-1917-das-muessen-sie-zur-spionageserie-davos-1917-wissen",
-                "Here is a film-serien news article: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-filme-des-jahres-und-ein-schuss-in-den-ofen",
-                "film-serien news coming right up: https://www.srf.ch/kultur/film-serien/jahresrueckblick-2023-die-besten-serien-des-jahres-und-eine-enttaeuschung",
-                "Here you go, the film-serien news you requested: https://www.srf.ch/kultur/film-serien/neu-im-stream-leave-the-world-behind-stars-am-rande-des-weltzusammenbruchs",
-                "Sure, here's a film-serien news link: https://www.srf.ch/kultur/film-serien/60-geburtstag-brad-pitt-vom-frauenschwarm-zum-publikumsliebling"
-            ]
-        },
-        {
-            "tag": "fussball",
-            "patterns": [
-                "Get me the latest fussball",
-                "Tell me about fussball",
-                "What's happening in fussball",
-                "Give me updates on fussball",
-                "I'm interested in fussball",
-                "Can you provide fussball ",
-                "Tell me more about fussball",
-                "Share fussball",
-                "fussball"
-            ],
-            "responses": [
-                "Here is a fussball news article: https://www.srf.ch/sport/fussball/internationale-ligen/aus-gegen-fluminense-endstation-halbfinal-fuer-kollers-al-ahly-an-der-klub-wm",
-                "Here's the latest fussball news: https://www.srf.ch/sport/fussball/super-league/mit-der-hacke-ins-glueck-ittens-kabinettstueckchen-ist-das-tor-der-herbstrunde"
-            ]
-        },
-        {
-            "tag": "musik",
-            "patterns": [
-                "Get me the latest musik",
-                "Tell me about musik",
-                "What's happening in musik",
-                "Give me updates on musik",
-                "I'm interested in musik",
-                "Can you provide musik ",
-                "Tell me more about musik",
-                "Share musik",
-                "musik"
-            ],
-            "responses": [
-                "musik news coming right up: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-alben-des-jahres",
-                "Sure, here's a musik news link: https://www.srf.ch/radio-srf-3/musik/best-of-sounds-2023-das-sind-die-10-besten-schweizer-alben-des-jahres"
-            ]
-        },
-        {
-            "tag": "tv",
-            "patterns": [
-                "Get me the latest tv",
-                "Tell me about tv",
-                "What's happening in tv",
-                "Give me updates on tv",
-                "I'm interested in tv",
-                "Can you provide tv ",
-                "Tell me more about tv",
-                "Share tv",
-                "tv"
-            ],
-            "responses": [
-                "Here is a tv news article: https://www.srf.ch/play/tv",
-                "Here is a tv news article: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
-                "Here's the latest tv news: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
-                "Enjoy this tv news article: https://www.srf.ch/play/tv/sendung/davos-1917?id=04afcde8-77d5-40f9-9497-bba01082776a",
-                "Here's the latest tv news: https://www.srf.ch/play/tv/themen/serien",
-                "Enjoy this tv news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725",
-                "tv news coming right up: https://www.srf.ch/play/tv/_/video/_?id=f1dcbba1-f843-4863-b32f-721f06e05725&urn=urn:srf:video:f1dcbba1-f843-4863-b32f-721f06e05725&aspectRatio=16_9",
-                "Here's some tv news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c",
-                "Here is a tv news article: https://www.srf.ch/play/tv/_/video/_?id=907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&urn=urn:srf:video:907ef8af-e3f1-4657-bfa5-71ca1bb5ff6c&aspectRatio=16_9",
-                "Enjoy this tv news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6",
-                "Here's some tv news for you: https://www.srf.ch/play/tv/_/video/_?id=7ff5469e-110f-43c4-9080-8a0991d743c6&urn=urn:srf:video:7ff5469e-110f-43c4-9080-8a0991d743c6&aspectRatio=16_9",
-                "tv news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3",
-                "Sure, here's a tv news link: https://www.srf.ch/play/tv/_/video/_?id=fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&urn=urn:srf:video:fea8e2d9-8f27-4c2a-b1ea-aaf5fe5859b3&aspectRatio=16_9",
-                "Here's the latest tv news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764",
-                "Here's the latest tv news: https://www.srf.ch/play/tv/_/video/_?id=0b577a10-877f-438e-9369-d7d05ffdb764&urn=urn:srf:video:0b577a10-877f-438e-9369-d7d05ffdb764&aspectRatio=16_9",
-                "Here you go, the tv news you requested: https://www.srf.ch/play/tv",
-                "Sure, here's a tv news link: https://www.srf.ch/play/tv/themen/gebaerdensprache",
-                "Here's some tv news for you: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:9b1c464b-0f54-4eb3-9a1a-38b273b85abc",
-                "Here's the latest tv news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:4702b41c-1ad5-49e2-8e8a-adb59e028538",
-                "Check out this tv news: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:444ba1b4-44ce-4f2f-96a3-ef528b8e6722",
-                "tv news coming right up: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:audio:c444cf4e-71a8-451c-9b7e-4dc422aed5f3",
-                "Sure, here's a tv news link: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0",
-                "Check out this tv news: https://www.srf.ch/play/tv/_/video/_?id=287e5d50-83b5-401a-8ba2-7e69eaddd8d0&urn=urn:srf:video:287e5d50-83b5-401a-8ba2-7e69eaddd8d0&aspectRatio=16_9",
-                "Here is a tv news article: https://www.srf.ch/play/tv/popupvideoplayer?urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa",
-                "Check out this tv news: https://www.srf.ch/play/tv/_/video/_?id=f514bab0-b8ac-4edb-b226-69cf26215afa&urn=urn:srf:video:f514bab0-b8ac-4edb-b226-69cf26215afa&aspectRatio=16_9",
-                "tv news coming right up: https://www.srf.ch/play/tv/sendung/archivperlen?id=eb4f3b13-0362-4ea8-b7b3-325382c86ef2",
-                "Check out this tv news: https://www.srf.ch/play/tv/sendungen?onlyActiveShows=false",
-                "Here you go, the tv news you requested: https://www.srf.ch/play/tv",
-                "tv news coming right up: https://www.srf.ch/play/tv/programm",
-                "Sure, here's a tv news link: https://www.srf.ch/tv/tv-korrekturen-1",
-                "Here you go, the tv news you requested: https://www.srf.ch/play/tv",
-                "Enjoy this tv news article: https://www.srf.ch/play/tv/programm"
-            ]
-        },
-        {
-            "tag": "kassensturz-espresso",
-            "patterns": [
-                "Get me the latest kassensturz-espresso",
-                "Tell me about kassensturz-espresso",
-                "What's happening in kassensturz-espresso",
-                "Give me updates on kassensturz-espresso",
-                "I'm interested in kassensturz-espresso",
-                "Can you provide kassensturz-espresso ",
-                "Tell me more about kassensturz-espresso",
-                "Share kassensturz-espresso",
-                "kassensturz-espresso"
-            ],
-            "responses": [
-                "Here's the latest kassensturz-espresso news: https://www.srf.ch/sendungen/kassensturz-espresso/espresso/nach-17-jahren-letzte-sendung-fuer-kathrin-winzenried-es-hat-was-unwirkliches",
-                "Check out this kassensturz-espresso news: https://www.srf.ch/sendungen/kassensturz-espresso/espresso/schlauer-i-d-wuche-mit-dem-zug-ins-ausland-wo-und-wie-buche-ich-die-tickets"
+                "Check out this jobs.srf.ch news: https://jobs.srf.ch/de/startseite/"
             ]
         }
     ]
