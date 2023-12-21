@@ -1,9 +1,8 @@
 ### Ignore Data ### 
 data/*
-!data/intents.json
-!data/intents_news.json
-!data/intents-scratch copy.json
 !data/intents-scratch.json
+
+model/*
 
 *.bundle.*
 lib/
