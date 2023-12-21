@@ -7,3 +7,4 @@ BookDataSet.csv
 # Mini-Challenge 1 Dataset
 
 booksummaries.txt
+https://www.kaggle.com/datasets/ymaricar/cmu-book-summary-dataset/data
