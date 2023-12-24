@@ -1,0 +1,12 @@
+name: npr_mc2
+channels:
+  - defaults
+dependencies:
+  - python=3.8 
+  - pip
+  - pytorch
+  - cudatoolkit=10.2 
+  - spacy
+  - rasa
+  - pip:
+      - transformers
