@@ -7,6 +7,6 @@ dependencies:
   - pytorch
   - cudatoolkit=10.2 
   - spacy
-  - rasa
   - pip:
       - transformers
+      - rasa
