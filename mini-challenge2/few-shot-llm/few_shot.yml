@@ -1,4 +1,4 @@
-name: npr_mc2
+name: npr_mc2_few_shot
 channels:
   - defaults
 dependencies:
