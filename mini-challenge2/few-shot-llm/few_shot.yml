@@ -1,0 +1,15 @@
+name: npr_mc2_few_shot
+channels:
+  - defaults
+dependencies:
+  - python=3.8 
+  - pip
+  - pytorch
+  - cudatoolkit=10.2 
+  - spacy
+  - pip:
+      - transformers
+      - rasa
+      - pyarrow
+      - fastparquet
+      - pandas
