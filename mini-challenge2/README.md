@@ -23,7 +23,6 @@ Dieses Repository beinhaltet hauptsächlich drei Ordner, mit denen wir jeweils v
 ### Few-Shot Approach
 
 #### Phi-2 Modell
-
 Unser erster Few-Shot Approach mit dem Phi-2 Modell hat gut funktioniert. Das Phi-2 Modell kann mit wenig Beispielen sehr gut umgehen und liefert gute Resultate. Es versteht auch, wenn in der Anfrage ein anderer Intent sich in der Query befindet und kann diesen auch richtig zuordnen. Bsp: Ob es sich um eine Immobilienanfrage handelt oder etwas anderes wie, ob er Brot hat. Auch Anfragen auf Deutsch kann unser Phi-2 Modell verstehen. Wir sind erstaunt, dass die Implementierung relativ einfach war sowie der Few-Shot Approach gute erste Resultate lieferte. Named Entity Recogination von Städtennamen erkennt das Modell, jedoch funktioniert der Wert der Immobilien nicht. Es versteht nicht, wenn wir einen gewissen Preisbereich angeben wollen. 
 
 #### GPT-2 Modell
@@ -31,7 +30,7 @@ Das GPT-2 Modell mit dem Few-Shot Approach analog wie beim Phi-2 Modell funktion
 Wir haben erkannt, dass das GPT-2 Modelle nicht so gut Zahlen interepretieren kann, welches getrennt werden durch einen Apostroph. Bsp: 1'000'000.00. 
 
 #### TinyLlama Chat
-TinyLlama Chat hat unserer Meinung nach am besten performt. Es konnte aus dem Few-Shot Approach lernen und versteht auch, wenn wir Immobilienanfragen schreiben die einen Preis Range abdecken und gibt auch entsprechend die richtigen Antworten zurück. Auch erstaunt hat uns die Tatsache, dass TinyLlama Chat auch auf Deutsch funktionierte. Es versteht die Anfragen und kann diese auch richtig zuordnen. Was uns aufgefallen ist, ist dass TinyLlama durch den Few-Shot Approach der Struktur der Anfrage folgt, unabhängig was für einen Intent gefragt wird. So kann es Bsp. nicht verstehen ob es sich um eine Immobilienanfrage handelt oder um eine Anfrage, ob er Brot hat und versucht daraus immer eine Immobilienanfrage zu machen. 
+TinyLlama Chat hat unserer Meinung nach am besten performt. Es konnte aus dem Few-Shot Approach lernen und versteht auch, wenn wir Immobilienanfragen schreiben die einen Preisbereich abdecken und gibt auch entsprechend die richtigen Antworten zurück. Auch erstaunt hat uns die Tatsache, dass TinyLlama Chat auch auf Deutsch funktionierte. Es versteht die Anfragen und kann diese auch richtig zuordnen. Was uns aufgefallen ist, ist dass TinyLlama Chat durch den Few-Shot Approach der Struktur der Anfrage folgt, unabhängig was für einen Intent gefragt wird. So kann es Bsp. nicht verstehen ob es sich um eine Immobilienanfrage handelt oder um eine Anfrage, ob er Brot hat, und versucht daraus immer eine Immobilienanfrage zu machen. 
 
 ### RASA Chatbot
 
